@@ -5,6 +5,10 @@
 	<groupId>edu.cmu.lti.11791.f12.hw2</groupId>
 	<artifactId>hw2-team11</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	  <scm>	
+	    <connection>scm:git:git@github.com:pradeep-gnr/hw1-ppravind.git</connection>
+	    <developerConnection>scm:git:git@github.com:pradeep-gnr/hw1-ppravind.git</developerConnection>
+	  </scm>
 	<repositories>
 		<repository>
 			<id>oaqa</id>
