@@ -62,5 +62,14 @@
 			<artifactId>helloqa</artifactId>
 			<version>1.0.1-SNAPSHOT</version>
 		</dependency>
+		<dependency>
+			<groupId>com.aliasi</groupId>
+			<artifactId>lingpipe</artifactId>
+			<version>4.1.0</version>
+		</dependency>
 	</dependencies>
+	<scm>
+		<url>scm:git:git@github.com:pradeep-gnr/hw2-team11.git</url>
+		<connection>scm:git:git@github.com:pradeep-gnr/hw2-team11.git</connection>
+	</scm>
 </project>
