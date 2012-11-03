@@ -1,0 +1,6 @@
+class: edu.cmu.lti.oaqa.openqa.test.team11.ppravind_KeytermExtractor.ppravindKeyTermExtractor
+
+
+persistence-provider: |
+ inherit: ecd.default-log-persistence-provider
+
