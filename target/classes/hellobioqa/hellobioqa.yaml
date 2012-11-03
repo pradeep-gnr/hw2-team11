@@ -15,7 +15,8 @@ pipeline:
     name: keyterm-extractor
     options: |
       - inherit: helloqa.keyterm.simple
-
+      - inherit: hellobioqa.team11.kkanal_keyterm_extractor
+      
   - inherit: jdbc.sqlite.cse.phase 
     name: retrieval-strategist
     options: |
