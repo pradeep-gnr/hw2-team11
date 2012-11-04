@@ -27,5 +27,6 @@
 			<attribute name="maven.pomderived" value="true"/>
 		</attributes>
 	</classpathentry>
+	<classpathentry kind="lib" path="/home/pradeep/softwares/lingpipe/lingpipe-4.1.0.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
