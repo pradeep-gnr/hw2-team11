@@ -1,0 +1,1942 @@
+ox-2-R
+P2X7 receptor
+transglutaminase H
+A-esterase 1
+transglutaminase C
+nuclear factor erythroid 2-related factor 2
+thyroglobulin
+apolipoprotein A1
+Rap guanine nucleotide exchange factor (GEF) 3
+DNA-binding factor KBF1
+cystic fibrosis transmembrane conductance regulator homolog; ATP-binding cassette, subfamily c, member 7
+PCO148993
+vitamin D3 receptor
+hypoxia-inducible factor 1 alpha isoform I.3
+post-gamma-globulin
+p53 cellular tumor antigen
+heat shock 70kD protein 4
+catenin beta-1
+membrane metallo-endopeptidase (neutral endopeptidase, enkephalinase, CALLA, CD10)
+wild-type p53-activated fragment 1
+nuclear receptor subfamily 1 group C member 3
+AP lyase
+toll/interleukin 1 receptor-like 4
+prostatropin
+macrophage gelatinase
+proenkephalin-B
+DF3 antigen
+major histocompatibility complex, class II, DQ beta 1
+K-ras p21 protein
+heat shock cognate 71 kDa protein
+mutS homolog 2, colon cancer, nonpolyposis type 1 (E. coli)
+protein kinase, cAMP-dependent, catalytic, alpha
+rotein
+phosphatidylinositol-4,5-bisphosphate 3-kinase, catalytic subunit alpha
+ceroid-lipofuscinosis, neuronal 10
+brain derived neurotrophic factor
+Sodium-dependent serotonin transporter (5HT transporter) (5HTT)
+casein kinase 2, alpha 1 polypeptide
+PI3-kinase p110 subunit alpha
+MHC class II antigen DQB1
+NOS type III
+MHC HLA-B transmembrane glycoprotein
+basic-helix-loop-helix-PAS protein MOP1
+activator protein 1
+HLA class I histocompatibility antigen, A-1 alpha chain
+BCL2-associated X protein transcript variant delta2
+spitz1
+Mdm2, transformed 3T3 cell double minute 2, p53 binding protein
+v-erb-b2 avian erythroblastic leukemia viral oncogene homolog 2 (neuro/glioblastoma derived oncogene homolog)
+albumin proximal factor
+CD274 molecule
+solute carrier family 6 (neurotransmitter transporter, serotonin), member 4
+monocyte chemotactic protein 1
+phosphatidylinositol 4,5-bisphosphate 3-kinase 110 kDa catalytic subunit alpha
+probable transcription factor PML
+presenilin-1
+phosphatase and tensin-like protein
+beta 2)
+CDK inhibitory protein
+NF-kappa-B p65delta3
+GST class-pi
+MAPK 2
+MAPK 1
+nuclear receptor subfamily 2 group A member 1
+tokine A2 (monocyte chemotactic protein 1, homologous to mouse Sig-je)
+type I interferon receptor 1
+appetite-regulating hormone
+apolipoprotein E3
+cyclooxygenase 2
+p50 subunit of NF kappaB
+B7 homolog 1
+id peptide
+heme oxygenase (decycling) 1
+5HTT
+glutathione S-alkyltransferase
+fibroblast growth factor 4
+macrophage migration inhibitory factor
+doxorubicin resistance
+intermediate conductance calcium-activated potassium channel protein 4
+92 kDa gelatinase
+interleukin HP-1
+fibroblast growth factor 1
+pro-MCH
+H2A histone family, member X
+fibroblast growth factor 2
+PDCD6-interacting protein
+TGF-beta 1
+LDL receptor
+hypocretin (orexin) receptor 1
+melanoma differentiation associated protein 6
+talloproteinase 9 (gelatinase B, 92kDa gelatinase, 92kDa type IV collagenase)
+hypocretin (orexin) receptor 2
+ret proto-oncogene
+proto-oncogene Neu
+CDK4-binding protein p34SEI
+ATTR
+tumor necrosis factor beta receptor
+skin fibroblast elastase
+TNF alpha
+B-cell lymphoma 1 protein
+pre-angiotensinogen
+integrin beta 1 (fibronectin receptor beta)
+tumor necrosis factor-alpha
+multidrug resistance-associated protein 1
+p95 protein of the MRE11/RAD50 complex
+high Fe
+programmed cell death 1 ligand 1
+monocyte chemoattractant protein 1
+anorexia BDNF
+SCA-1
+TATA sequence-binding protein
+to-oncogene c-ErbB-1
+MHC class I-like protein HFE
+putative colon cancer-associated antigen SK1-like
+MAP kinase 14
+killer of prune
+melanin-concentrating hormone
+phagocytic glycoprotein 1
+helicard
+PCO148993(759)
+IFN-alpha/betaR
+man leucocyte antigen DRB1
+neuroendocrine basic polypeptide
+p14-INK4b
+josephin
+proto-oncogene c-Jun
+M6P/IGF2 receptor
+nitric oxide synthase 2, inducible, macrophage
+procaspase3
+early growth response 1
+integrin alpha-F
+tumor necrosis factor
+estrogen receptor alpha delta 3*,4,5,6,7*,8*/941 isoform
+breast cancer type 2 susceptibility protein
+alpha-2-Z-globulin
+MAP kinase 1
+ta-1
+MAP kinase 2
+MAP kinase 3
+TGF-beta 1 protein
+catechol-O-methyltransferase
+integrin alpha-5
+metastasis inhibition factor NM23
+member of PAS superfamily 1
+tumor-associated epithelial membrane antigen
+blastic leukemia viral (v-erb-b) oncogene homolog
+phosphatase and tensin homolog
+gripghs
+HACBP
+caveolin 1, caveolae protein, 22kDa
+inducible nitric oxide synthase
+serine/threonine-protein kinase GSK3B
+SKCa 4
+tumor suppressor homolog p53
+mammalian CARD-containing adapter molecule E10
+retinoid receptor-related testis-specific receptor
+Rad6p
+Yama
+CTC box binding factor 75 kDa subunit
+converting enzyme (peptidyl-dipeptidase A) 1
+prothrombin B-chain
+HNF-1-alpha
+lymphocyte antigen DRB1
+caspase 3
+gamma-aminobutyric acid (GABA-B) receptor, 1
+nuclear factor kappa-B DNA binding subunit
+epidermal growth factor
+HDM2 transcript variant MYO-32
+lymphoproliferation
+deafness, X-linked 7
+scavenger receptor class B1
+insulin-like growth factor 1
+serpin peptidase inhibitor, clade E (nexin, plasminogen activator inhibitor type 1), member 1
+insulin-like growth factor 2
+leukocyte-derived seven-transmembrane-domain receptor
+calcium channel, voltage-dependent, L type, alpha 1C subunit
+AMP pyrophosphorylase
+heat shock 70 kDa protein 4
+92 kDa type IV collagenase
+c-Ha-ras transgene
+v-jun avian sarcoma virus 17 oncogene homolog
+thyroxine-binding prealbumin
+Tat
+adiponectin, C1Q and collagen domain containing
+p185erbB2
+insulin-like growth factor I
+MHC class2 antigen
+proto-oncogene c-Fos
+ERT1
+tumor suppressor p53
+spinocerebellar ataxia type 3 protein
+serine/threonine protein kinase 15
+NDP kinase alpha
+cerebral vascular amyloid peptide
+aquaporin-CHIP
+fibronectin
+NF kappaB1
+L1 cell adhesion molecule
+fibroblast collagenase
+rac protein kinase alpha
+Rad1p
+CXCR-4
+antigen recognized by monoclonal antibody 5.1H11
+brain derived neurothrophic factor
+5'-dRP lyase Ku70
+beta-1 adrenoceptor
+PR310 c-K-ras oncogene
+AKT1 kinase
+kDa gelatinase
+tyrosine-protein kinase JAK2
+KBP
+MHC class II HLA-DR-beta cell surface glycoprotein
+NDP kinase beta
+ATP-sensitive inward rectifier potassium channel 11
+serine (or cysteine) proteinase inhibitor, clade A, member 3C
+major histocompatibility complex enhancer-binding protein MAD3
+92kDa gelatinase
+histone H2A.x
+p75 TNF receptor
+nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, alpha
+I-kappa-B-alpha
+early T-cell costimulatory molecule 1
+phosphoinositide phospholipase C-gamma-1
+interferon (alpha and beta) receptor 1
+protein kinase C, alpha
+G protein beta1/gamma2 subunit-interacting factor 1
+insulin-like growth factor binding protein 2, 36kDa
+FR-alpha
+tumor necrosis factor receptor type 1
+propanoyl-CoA C-acyltransferase
+FK506-binding protein 12-rapamycin complex-associated protein 1
+EAR-3
+bcl-2-like protein 4
+Sp1 transcription factor
+bcl-2-like protein 1
+CD44 antigen
+circadian locomoter output cycles protein kaput
+mutS-alpha 160 kDa subunit
+dnaJ protein homolog 9
+dopamine receptor D2 isoform
+mercurial-insensitive water channel
+water channel protein for red blood cells and kidney proximal tubule
+ubiquitin C
+RAC-PK-alpha
+breast cancer associated 1
+v-myc avian myelocytomatosis viral oncogene homolog
+interleukin-4
+CDK4 inhibitor p16-INK4
+TNF, macrophage-derived
+H-ras 1 protein
+polyprotein
+tyrosine kinase-type cell surface receptor HER2
+PEST-domain phosphatase
+arylesterase B-type
+neurotrophin
+precore/core protein
+interleukin-6
+interleukin-8
+beta-urogastrone
+inositoltrisphosphohydrolase
+Rad18p
+myelin oligodendrocyte glycoprotein
+p80 TNF-alpha receptor
+episialin
+FKBP12-rapamycin complex-associated protein 1
+ER-alpha
+zinc finger E-box binding homeobox 1
+latency-associated peptide
+proto-oncogene protein c-fos
+apolipoprotein J
+amyloidogenic glycoprotein
+serine protease
+SPP1/CALPHA1 fusion
+B219
+brain-derived neurotrophic factor
+FADD-homologous ICE/CED-3-like protease
+ras-like protein TC25
+integrin VLA-4 beta subunit
+carcinoma-associated mucin
+heat shock cognate protein 54
+heat shock 70-related protein APG-2
+catabolin
+phosphoprotein p53
+matrix metallopeptidase 9
+apolipoprotein E
+nucleoside diphosphate kinase B-like
+spotted sterile male
+glutathione S-transferase mu 1
+TGF-beta-1
+CD28 antigen
+telomerase reverse transcriptase
+GC-binding transcription factor Sp3
+paired helical filament-tau
+T-cell receptor, alpha (V,D,J,C)
+PI3K-alpha
+retinoid X receptor, alpha
+cadherin 1, E-cadherin (epithelial)
+neutral endopeptidase 24.11
+transfer RNA leucine (anticodon CAA)
+CI-MPR
+p38 MAP kinase alpha
+Msn2p
+seven-transmembrane-segment receptor, spleen
+slow nerve growth factor receptor
+early growth response protein 1
+integrin beta-1
+similar to COUP-TF1 nuclear orphan receptor
+glutathione S-aryltransferase
+synuclein, alpha (non A4 component of amyloid precursor)
+tyrosine kinase pp60c-src
+serine (or cysteine) peptidase inhibitor, clade A, member 3C
+transformation-related protein 53
+Hypocretin (orexin) neuropeptide
+transforming protein p21
+p14_CDK inhibitor
+hsp70 RY
+angiotensin II
+aurora 2
+thymic stromal lymphopoietin
+fetuin-A
+V-erbA-related protein 3
+epsilon COP
+complement component (3b/4b) receptor 1 (Knops blood group)
+mutL homolog 1, colon cancer, nonpolyposis type 2 (E. coli)
+2'-5'-oligoadenylate-binding protein
+P60 lymphocyte protein
+TGF-beta-activated kinase 1-binding protein 2
+TCF-3B
+c-myc proto-oncogene
+emoctakin
+aquaporin 4
+serine (or cysteine) proteinase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 3C
+avian erythroblastic leukemia viral (v-erb-b) oncogene homolog
+multiple intestinal neoplasia
+HDM2 transcript variant MYO-24
+HDM2 transcript variant MYO-25
+HDM2 transcript variant MYO-26
+retinoic acid receptor RXR-alpha
+acute-phase response factor
+heterogeneous nuclear ribonucleoprotein methyltransferase 1-like 2
+Na+/K+ ATPase, alpha-A(+) catalytic polypeptide
+p53 tumor suppressor
+HDL QTL 1
+breast cancer 2, early onset
+kemia viral oncogene homolog 2 (neuro/glioblastoma derived oncogene homolog)
+Envelope surface glycoprotein gp160, precursor
+scavenger receptor class B type I
+PPAR-gamma
+HDM2 transcript variant MYO-20
+ng enzyme
+HDM2 transcript variant MYO-18
+myelin-oligodendrocyte glycoprotein
+COUP-TF II
+HNF-3-beta
+Rad9p
+cyclooxygenase 2b
+retinitis pigmentosa 2 (X-linked recessive)
+nuclear factor, erythroid derived 2, like 2
+lymphocyte antigen
+C-X-C chemokine receptor type 4
+RAC-alpha serine/threonine-protein kinase
+protein kinase C-interacting protein 1
+breast cancer type 1 susceptibility protein homolog
+caveolin-1
+insulin-like growth factor type 2
+caspase-3
+MHC HLA-B cell surface glycoprotein
+CI Man-6-P receptor
+VLA-4 subunit beta
+immune dysregulation, polyendocrinopathy, enteropathy, X-linked
+hMSH6
+hMSH2
+apolipoprotein regulatory protein 1
+adrenoceptor beta 1
+programmed cell death 6-interacting protein
+5HT transporter
+chondroitin sulfate proteoglycan 8
+DNA repair protein XRCC6
+histidine triad nucleotide binding protein 1
+APOBEC1-binding protein 2
+angiotensin converting enzyme, somatic isoform
+Kirsten rat sarcoma-2 viral (v-Ki-ras2) oncogene homolog
+hypocretin receptor type 2
+p55
+hypocretin receptor type 1
+putative erythrocyte intermediate conductance calcium-activated potassium Gardos channel
+HNF1 homeobox A
+uvomorulin
+beta endothelial cell-derived neutrophil activating peptide
+neuropeptide Y receptor Y3
+Gel B
+acute phase response factor
+pp125FAK
+DNA MTase HsaI
+multifunctional nucleoside diphosphate kinase and apyrimidinic endonuclease and 3'-phosphodiesterase
+transportin 3
+brane conductance regulator
+Srs2p
+cNOS
+mitogen-activated protein kinase 2
+mitogen-activated protein kinase 1
+obesity factor
+mitogen-activated protein kinase 3
+cyclin-dependent kinase inhibitor 2A (melanoma, p16, inhibits CDK4)
+liver-specific transcription factor LF-B1
+nuclear receptor subfamily 2, group F, member 2
+nuclear receptor subfamily 2, group F, member 1
+proto-oncogene c-Myc
+matrix metalloprotease 1
+T-cell surface antigen T4/Leu-3
+X-ray repair cross-complementing protein 6
+inducible NOS
+CD44 molecule (Indian blood group)
+GST HB subunit 4
+BRCA1/BRCA2-containing complex, subunit 2
+BRCA1/BRCA2-containing complex, subunit 1
+double minute 2, human homolog of; p53-binding protein
+lymphocyte derived neutrophil activating peptide
+P18
+caspase-8
+zinc finger protein Krox-24
+p39
+Inhibitor of apoptosis-promoting Bax1
+olivopontocerebellar ataxia 3
+mammalian target of rapamycin
+C polypeptide
+transforming growth factor, beta 1
+BRCA1/BRCA2-containing complex, subunit 5
+cancer/testis antigen family 45 member A2-like
+DNA mismatch repair protein Msh2
+testosterone-estradiol-binding globulin
+DNA mismatch repair protein Msh6
+cyclooxygenase-2
+transcription factor E2F1
+,8*/901 isoform
+ene
+Sicca syndrome antigen A (autoantigen Ro; calreticulin)
+TGF-beta activated kinase 1/MAP3K7 binding protein 2
+Pr76 polyprotein precursor
+LPS-associated protein 1
+tumor necrosis factor receptor type II
+estrogen receptor alpha delta 4*,5,6,7*/654 isoform
+apolipoprotein B-100
+dihydrotestosterone receptor
+kit oncogene
+murabutide down-regulated protein
+non-metastatic cells 1, protein (NM23A) expressed in
+fanconi anemia group D1 protein
+p14
+T-cell transcription factor NFAT1
+peptidyl-cysteine S-nitrosylase NOS2
+phosphatidylinositol-3,4,5-trisphosphate 3-phosphatase and dual-specificity protein phosphatase PTEN
+exchange protein directly activated by cAMP 1
+FBJ murine osteosarcoma viral (v-fos) oncogene homolog (oncogene FOS)
+Nuclear receptor 2A1
+huntington disease protein homolog
+HDM2 transcript variant MYO-1
+leptin receptor gene-related protein
+interleukin 6 (interferon, beta 2)
+transcription factor
+CD35 antigen
+HDM2 transcript variant MYO-4
+NFAT pre-existing subunit
+TATA-box factor
+g growth factor beta-1
+vascular permeability factor
+melanoma differentiation-associated protein 5
+hyaluronate receptor
+estrogen receptor 1 (alpha)
+SKCa4
+ligand and transmembrane spliced cytotoxic T lymphocyte associated antigen 4
+ear factor kappa-B DNA binding subunit
+cytotoxic T-lymphocyte antigen 4
+progesterone receptor
+cold-insoluble globulin
+HT027
+carpal tunnel syndrome 1
+sodium/potassium-transporting ATPase alpha-2 chain
+MTS-2
+sodium channel voltage gated type 1 alpha subunit
+B-cell CLL/lymphoma 10
+Krox-24 nuclear protein
+bM573K1.1.1 (gamma-aminobutyric acid (GABA) B receptor, 1a)
+SREBP cleavage activity 1
+major histocompatibility complex, class II, DR beta 1
+MACH-alpha-1/2/3 protein
+alpha 1 connexin
+spi-PB
+early T-lymphocyte activation 1 protein
+spi-PA
+neurotrophic tyrosine kinase, receptor, type 1
+alveolar macrophage chemotactic factor I
+spi-PF
+ATP-binding cassette, sub-family B (MDR/TAP), member 1
+spi-PE
+insulin-like growth factor 1 (somatomedin C)
+spi-PG
+Rsp5p
+DNA binding factor KBF1
+CXXC-type zinc finger protein 9
+amyloid beta (A4) precursor protein
+low-density lipoprotein receptor
+programmed cell death protein 1
+transforming protein P21
+H23 antigen
+hereditary hemochromatosis protein HLA-H
+MHC class II antigen HLA-DQ-beta-1
+sulfated glycoprotein 2
+ICE-like apoptotic protease 5
+apoptosis regulator Bcl-X
+cancer/testis antigen family 45 member A3-like
+NF-E2-related factor 2
+putative nucleoside diphosphate kinase-like
+ATP-dependent DNA helicase II 70 kDa subunit
+ataxin-3
+NAD-dependent protein deacetylase sirtuin-1
+mitogen activated protein kinase 1
+metastasis inhibition factor nm23
+ox-1-R
+oid protein
+calcium channel, P/Q type, alpha 1A
+MHC class II HLA-DR beta 1 chain
+apoptotic protease Mch-5
+protein
+v-myc myelocytomatosis viral oncogene homolog (avian)
+RING finger protein 53
+leukocyte antigen class I-A
+leukocyte antigen class I-B
+membrane metallo-endopeptidase variant 1
+membrane metallo-endopeptidase variant 2
+RING finger protein 71
+protein tyrosine phosphatase, non-receptor type 8
+syndecan-1
+basic fibroblast growth factor bFGF
+solute carrier family 30 (zinc transporter), member 8
+nuclear receptor subfamily 1 group I member 1
+mitochondrial matrix protein P1
+cachectin
+otein
+pro-interleukin-1-beta
+NACHT, LRR and PYD containing protein 3
+adiponectin
+protein-glutamine-gamma-glutamyltransferase
+jun proto-oncogene
+aurora/IPL1-like kinase
+kallikrein binding protein
+hypoxia-inducible factor 1-alpha
+HB subunit 4
+protein tyrosine kinase ERK2
+protein Ash
+SUB1 homolog (S. cerevisiae)
+c leukemia viral (v-erb-b) oncogene homolog
+HNF4 alpha
+interferon production regulator factor
+interferon induced with helicase C domain 1
+estrogen receptor alpha E1-E2-1-2
+IGFBP-2
+signal transducer and activator of transcription 6
+binding protein 53
+tyrosine-protein kinase Kit
+Sialoprotein (osteopontin)
+hematopoietically expressed homeobox
+constitutive heat shock protein 70
+signal transducer and activator of transcription 3
+IGFBP-3
+apolipoprotein B (including Ag(x) antigen)
+scavenger receptor class B, member 1
+A-T mutated
+cellular oncogene c-fos
+expressed in non-metastatic cells 1 protein
+cystic fibrosis transmembrane conductance regulator homolog
+dopamine receptor D2
+estrogen receptor 1
+ARK-1
+angiotensinogen (serpin peptidase inhibitor, clade A, member 8)
+acting protein 1
+NF-kappabeta
+MHC class II DQ beta chain
+nucleotide diphosphate kinase B
+secreted phosphoprotein 1
+chemokine (C-C motif) ligand 2
+CPP-32
+cathepsin D
+nuclear receptor subfamily 3 group A member 1
+cathepsin B
+nuclear receptor subfamily 3 group A member 2
+collagenase type IVB
+secreted phosphoprotein 1 (osteopontin, bone sialoprotein I, early T-lymphocyte activation 1)
+C-C motif chemokine 2
+TNF-a
+insulin
+IFN-gamma-inducing factor
+positive cofactor 4
+heat shock 60kDa protein 1 (chaperonin)
+aquaporin-4
+monocyte-derived neutrophil chemotactic factor
+p14_INK4B
+aquaporin-1
+ATP-dependent DNA helicase 2 subunit 1
+pentraxin 1
+adenomatous polyposis coli protein
+T cell transcription factor NFAT1
+signal transducer and activator of transcription 1
+tensin I converting enzyme (peptidyl-dipeptidase A) 1
+PRAD1 oncogene
+interleukin 18 (interferon-gamma-inducing factor)
+RNA helicase-DEAD box protein 116
+cadherin-1
+paraoxonase 1
+hypocretin receptor 1
+serine (or cysteine) proteinase inhibitor, clade E (nexin, plasminogen activator inhibitor type 1), member 1
+cystatin 3
+hereditary hemochromatosis protein
+ubiquitin E3 ligase ICP0
+tumor associated epithelial mucin
+cystatin C
+v-Ki-ras2 Kirsten rat sarcoma 2 viral oncogene homolog
+hepatocyte nuclear factor 3, beta
+breast carcinoma-associated antigen DF3
+angiotensin I converting enzyme (peptidyl-dipeptidase A) 1
+inwardly rectifying potassium channel KIR6.2
+membrane metallo-endopeptidase (neutral endopeptidase, enkephalinase)
+c-Ha-ras p21 protein
+binding protein 29
+IFN-beta-2
+protein PD-1
+mutS homolog 6 (E. coli)
+NME/NM23 nucleoside diphosphate kinase 2
+TATA-box-binding protein
+xycathepsin
+NME/NM23 nucleoside diphosphate kinase 1
+histidine protein kinase NDKB
+fatty acid ethyl ester synthase III
+JAK-2
+beta-cell inward rectifier subunit
+MHC class II HLA-DQ beta glycoprotein
+a 2)
+Chromatin assembly factor 1 subunit
+phosphatidylinositol-4,5-bisphosphate 3-kinase catalytic subunit, alpha isoform
+mucin 1, cell surface associated
+sodium channel protein, brain I alpha subunit
+DNA (cytosine-5)-methyltransferase 1
+paraoxonase B-type
+RAD51 homolog (S. cerevisiae)
+abnormal wing disc
+gelatinase B
+APP secretase
+forkhead box protein A2
+atriopeptidase
+cAMP-dependent chloride channel
+mutated in multiple advanced cancers 1
+hepatic nuclear factor 1
+NFAT transcription complex, preexisting component
+cryopyrin
+peroxisome proliferator activated receptor gamma 2
+peroxisome proliferator activated receptor gamma 4
+C motif) receptor 4
+cadherin 1, type 1, E-cadherin (epithelial)
+tumor necrosis factor (TNF superfamily, member 2)
+apo B-100
+DNA polymerase delta auxiliary protein
+prothrombin
+olate reductase (NADPH)
+ghrelin, growth hormone secretagogue receptor ligand
+SERTA domain-containing protein 1
+-cells 1, p105
+adipocyte complement-related 30 kDa protein
+phospholipase C-gamma-1
+bA218C14.4 (cystatin C)
+angiotensin-converting enzyme
+TAK1-binding protein 2
+hepatic
+folate-binding protein 1
+ikB-alpha
+heme oxygenase 1
+vesicle coatomer protein
+PLC-gamma-1
+phenylpyruvate tautomerase
+coatomer protein subunit beta 1
+retinoic acid receptor-related orphan receptor alpha
+p140-TrkA
+RAD51 homolog A
+gb1
+purinergic receptor P2X7 variant A
+transphosphoribosidase
+RNase L inhibitor
+NDP kinase A
+NDP kinase B
+apolipoprotein B48
+serine/threonine protein kinase PIK3CA
+breast-tumor-amplified kinase
+p15-INK4b
+membrane metallo-endopeptidase
+estrogen receptor
+gap junction alpha-1 protein
+clock homolog (mouse)
+or receptor
+tumor supressor p53
+motilin-related peptide
+GST class-mu 1
+breast and ovarian cancer sususceptibility protein 1
+PLC-148
+ntaining transcription factor
+Pol30p
+voltage-gated sodium channel subunit alpha Nav1.1
+N-glycosylase/DNA lyase
+adipose most abundant gene transcript 1 protein
+early T-lymphocyte activation 1
+nucloside diphosphate kinase
+G1/S-specific cyclin-D1
+sodium-potassium ATPase catalytic subunit alpha-2
+HLA class II histocompatibility antigen, DQ beta 1 chain
+antigen NY-CO-13
+germ cell nuclear factor
+Top1p
+nuclear factor of kappa light polypeptide gene enhancer in B-cells 3
+HNF-4-alpha
+plasminogen activator inhibitor 1
+chemokine (C-X-C motif) ligand 8
+nuclear factor of kappa light polypeptide gene enhancer in B-cells 1
+specificity protein 3
+preexisting nuclear factor of activated T-cells 2
+DEAD/H (Asp-Glu-Ala-Asp/His) box polypeptide
+specificity protein 1
+BSF-2
+common acute lymphocytic leukemia antigen
+protein Yama
+NLR family, pyrin domain containing 3
+DNA-apurinic or apyrimidinic site lyase
+PPAR gamma
+TCF-14
+methylenetetrahydrofolate reductase
+aquaporin 1 (Colton blood group)
+E2F transcription factor 1
+FKBP-rapamycin associated protein
+syndecan 1
+brain calcium channel 1
+p53 apoptosis effector related to PMP-22-like
+TGF-beta-activated kinase 1 and MAP3K7-binding protein 2
+calcium oxalate crystal growth inhibitor protein
+cyclin D1
+aging-associated protein 4
+nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 2
+gamma-trace
+heat shock protein 65
+HLA class II histocompatibility antigen, DR-1 beta chain
+ATP receptor
+orexin
+envelope glycoprotein B
+adrenoceptor beta 2, surface
+transcription factor p64
+fibronectin receptor subunit alpha
+brain calcium channel I
+transcription factor p65
+telomerase catalytic subunit
+beta-2 adrenergic receptor
+MHC class I antigen HLA-B heavy chain
+prepro-orexin
+Rap1 guanine-nucleotide-exchange factor directly activated by cAMP
+RecA-like protein
+trkA proto-oncogene receptor
+gp160; envelope glycoprotein
+serine (or cysteine) proteinase inhibitor, clade A, member 1
+ophage-derived
+orexin receptor-1
+RIG-I-like receptor 2
+glutathione S-transferase P
+scurfy
+presenilin 1
+9330170P05Rik
+estrogen receptor beta 4
+contains a RING finger; disrupts ND10; proteasome-dependent degradation of several cellular proteins
+Platelet-activating factor acetylhydrolase IB subunit beta
+bility protein 1
+Mdm2, p53 E3 ubiquitin protein ligase homolog (mouse)
+HBGF-1
+insulin-like growth factor IB
+lupus Ku autoantigen protein p70
+insulin-like growth factor IA
+HBGF-2
+transcription factor RZR-alpha
+nuclear factor of kappa light polypeptide gene enhancer in B cells 1, p105
+caspase 8, apoptosis-related cysteine peptidase
+insulin-like growth factor II
+activation B7-2 antigen
+FADK 1
+bone sialoprotein 1
+calcitonin/alpha CGRP
+serine (or cysteine) proteinase inhibitor
+calcium channel, L type, alpha-1 polypeptide
+cysteine protease
+metastatic lymph node gene 19 protein
+nitric oxide synthase 3 (endothelial cell)
+phospholipase C, gamma 1 (formerly subtype 148)
+prion protein
+22 isoform
+toll-like receptor 2
+toll-like receptor 4
+testicular ECA
+e reductase (NAD(P)H)
+MHC class II HLA-DRw10-beta
+TATA-box binding protein N-terminal domain
+potassium intermediate/small conductance calcium-activated channel, subfamily N, member 4
+DnaJ protein 9
+HBGF-4
+inase inhibitor 1A (p21, Cip1)
+CDF
+protein kinase C alpha type
+human DnaJ protein 9
+melanoma differentiation associated protein-5
+transcription factor Sp3
+transcription factor Sp1
+voltage-gated calcium channel subunit alpha Cav2.1
+hypocretin (orexin) neuropeptide precursor
+CD230 antigen
+ransmembrane conductance regulator (ATP-binding cassette sub-family C, member 7)
+insulinase
+nucleolar protein NO38
+growth factor receptor-bound protein 2
+nuclear factor-kappaB p50
+growth factor receptor-bound protein 3
+Sp3 transcription factor
+nucleophosmin/nucleoplasmin family, member 1
+insulin-degrading enzyme
+monocyte secretory protein JE
+adenine phosphoribosyltransferase
+macrophage NOS
+IGG1 induction factor
+transformation related protein 53
+92kD type IV collagenase
+complement receptor type 1
+CD4 antigen (p55)
+tumor necrosis factor receptor 1A isoform beta
+B-cell CLL/lymphoma 2
+cellular-E10
+B-cell CLL/lymphoma 1
+hepatocyte nuclear factor 4-alpha
+transcription factor 1, hepatic
+cAMP-dependent protein kinase catalytic subunit alpha
+hToll
+Killer-of-prune
+glutathione S-transferase M1
+cell migration-inducing gene 5 protein
+v-Ki-ras2 Kirsten rat sarcoma viral oncogene homolog
+Machado-Joseph disease protein 1
+matrix metallopeptidase 1 (interstitial collagenase)
+white
+ras-related C3 botulinum toxin substrate 1
+HLA class II histocompatibility antigen, DRB1-4 beta chain-like
+heat shock protein, 110 kDa
+estrogen receptor alpha 3*,4,5,6,7*/822 isoform
+sodium channel protein type I subunit alpha
+Chaperone protein dnaK2
+tigen DRB1
+n sulphate
+tumor-associated mucin
+neprilysin
+microtubule-associated protein tau
+cyclin-dependent kinases 4 and 6 binding protein
+eta-amyloid peptide
+angiotensin ll
+S-(hydroxyalkyl)glutathione lyase
+retinoblastoma 1
+regulatory protein
+androgen receptor
+calcium channel, cardic dihydropyridine-sensitive, alpha-1 subunit
+appican
+IGF-IA
+rythroblastic leukemia viral (v-erb-b) oncogene homolog
+forkhead box P3
+heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa)
+IGF-IB
+ER-associated DNAJ protein 3
+ox1r
+p160
+alzheimer disease amyloid A4 protein homolog
+activated RNA polymerase II transcription cofactor 4
+truncated breast and ovarian cancer susceptibility protein 2
+Fas (TNF receptor superfamily member)
+tumor necrosis factor-alpha receptor
+scurfin
+insulin-like growth factor 2 receptor
+Huntington disease gene homolog
+y member 2
+mitogen-activated protein kinase 14
+cell cycle negative regulator beta
+solute carrier family 6 member 4
+heat shock protein, 32-kD
+nitric oxide synthase 3, endothelial cell
+hematopoietic cell protein-tyrosine phosphatase 70Z-PEP
+protein arginine N-methyltransferase 1
+h factor receptor
+polyubiquitin-C
+proto-oncogene c-Akt
+lipopolysaccharide-associated protein 3
+lipopolysaccharide-associated protein 1
+cyclin-dependent kinase 4 inhibitor A
+cyclin-dependent kinase 4 inhibitor B
+nuclear receptor subfamily 2 group B member 1
+insulin-like growth factor II receptor
+actin, cytoplasmic 2-like
+protein kinase C inhibitor 1
+nucleophosmin
+oncogene KRAS2
+endoplasmic reticulum resident protein 60
+phosphatidylinositol 3-kinase, catalytic, alpha polypeptide
+DNA synthesis inhibitor
+SIR2alpha
+rapamycin and FKBP12 target 1
+GABA-B receptor 1
+caspase 8, apoptosis-related cysteine protease
+cyclin-dependent kinase inhibitor 1
+nuclear receptor subfamily 6, group A, member 1
+hepatic nuclear factor-3-beta
+SH2/SH3 adapter GRB2
+dopamine D2 receptor
+p38 alpha
+MORT1-associated ced-3 homolog
+enin
+tigen
+NDK A
+non-specific lipid-transfer protein
+NDK B
+huHP68
+interleukin BSF-2
+CD86 antigen
+nuclear factor (erythroid-derived 2)-like 2
+Nijmegen breakage syndrome 1 (nibrin)
+RAR-related orphan receptor A
+synuclein alpha-140
+breast tumor-amplified kinase
+GSTP1-1
+complement component receptor 1
+dnaJ homolog subfamily B member 11
+small inducible cytokine subfamily A (Cys-Cys), member 2
+plasminogen
+E3 ubiquitin-protein ligase Mdm2
+catecholamine receptor
+cellular tumor antigen p53
+ribonuclease L (2',5'-oligoisoadenylate synthetase-dependent) inhibitor
+serine/threonine-protein kinase mTOR
+estradiol receptor
+cytotoxic T-lymphocyte-associated serine esterase-4
+GELB
+heparin-binding growth factor 4
+C-reactive protein, pentraxin-related
+heparin-binding growth factor 2
+5'-deoxyribose-5-phosphate lyase Ku70
+heparin-binding growth factor 1
+endothelial plasminogen activator inhibitor
+apo-AI
+transcription factor HNF-4
+activated RNA polymerase II transcriptional coactivator p15
+toll4
+GABA-BR1
+interferon-induced helicase C domain-containing protein 1
+proto-oncogene c-Src
+apoptosis-linked gene 2-interacting protein X
+receptor tyrosine-protein kinase erbB-2
+activation B7-1 antigen
+grp60
+TNF, monocyte-derived
+scavenger receptor class B member 1
+receptor tyrosine-protein kinase erbB-1
+avian myelocytomatosis viral oncogene homolog
+histidine triad nucleotide-binding protein 1
+protooncogene SRC, Rous sarcoma
+catenin (cadherin associated protein), beta 1
+low density lipoprotein receptor
+glutathione S-transferase Mu 1
+c-erb B2/neu protein
+nuclear receptor subfamily 3 group C member 3
+nuclear receptor subfamily 3 group C member 4
+adrenergic, beta-2-, receptor, surface
+cellular c-Ki-ras2 proto-oncogene
+ATP-binding cassette transporter sub-family C member 7
+ATP-binding cassette, subfamily c, member 7
+mitogen activated protein kinase 14
+glycogen synthase kinase-3 beta
+OGG1 type 1f
+PARP cleavage protease
+protein-glutamine gamma-glutamyltransferase 2
+small inducible cytokine subfamily B, member 8
+DNA methyltransferase 1
+ARNT interacting protein
+glucocorticoid receptor
+exchange factor directly activated by cAMP 1
+monocyte-derived neutrophil-activating peptide
+cytokine suppressive anti-inflammatory drug binding protein 1
+serpin peptidase inhibitor, clade A (alpha-1 antiproteinase, antitrypsin), member 1
+inducible NO synthase
+CK II alpha
+c-kit proto-oncogene protein
+forkhead box protein P3
+TEL1, telomere maintenance 1, homolog
+glutathione S-transferase pi 1
+insulin-like growth factor-binding protein 2
+promyelocytic leukemia protein
+interferon, gamma
+and cyclooxygenase)
+HMT1 (hnRNP methyltransferase, S. cerevisiae)-like 2
+programmed cell death 6 interacting protein
+hepatic nuclear factor 4 alpha
+BCL2-associated X protein
+myc proto-oncogene protein
+atory subunit alpha
+Fas antigen
+vitamin D (1,25- dihydroxyvitamin D3) receptor
+chicken ovalbumin upstream promoter-transcription factor I
+P2X purinoceptor 7
+protein-tyrosine kinase 2
+insulin-like growth factor-binding protein 3
+and C kinases
+aging-associated gene 6
+bcl2-L-4
+alpha-2-HS-glycoprotein
+p42-MAPK
+cystic fibrosis transmembrane conductance regulator
+tumor necrosis factor receptor superfamily member 1B
+interferon alpha/beta receptor 1
+calcitonin gene-related peptide I
+nuclear factor of activated T-cells, preexisting component
+nuclear factor of kappa light chain gene enhancer in B-cells
+helicase with 2 CARD domains
+NF-ATc2
+preA4
+tumor necrosis factor receptor superfamily member 1A
+protein kinase C, epsilon
+prostaglandin H2 synthase 2
+CTC box-binding factor 75 kDa subunit
+embrane metallo-endopeptidase (neutral endopeptidase, enkephalinase)
+hepatocyte nuclear factor 1-alpha
+calcitonin gene-related peptide 1
+tumor necrosis factor binding protein 1
+tumor necrosis factor binding protein 2
+DW2.2/DR2.2
+interleukin-1 gamma
+cysteine protease CPP32
+L-dopachrome tautomerase
+imp12
+proinsulin
+T-cell antigen receptor, alpha polypeptide
+GTPase KRas
+nitric oxide synthase, inducible
+non-metastatic cells 2, protein (NM23) expressed in
+cell-CAM 120/80
+N-myristoyltransferase inhibitor protein 71
+n E
+T-cell growth inhibitory factor
+CAM 120/80
+apoptosis regulator BAX
+nibrin
+prion-related protein
+dominant spotting
+dipeptidyl carboxypeptidase I
+PON 1
+4*,5,6,7,8*/901 isoform
+neurofibrillary tangle protein
+proto-oncogene cFOS
+n receptor alpha delta 3*,4,5,6,7*/819-2 isoform
+TGase H
+Rev3p
+potassium channel inwardly rectifing subfamily J member 11
+dipeptidyl carboxypeptidase 1
+TGase C
+cin resistance
+tumor metastatic process-associated protein
+COUP transcription factor II
+phosphatidylinositol-4,5-bisphosphate 3-kinase 110 kDa catalytic subunit alpha
+transcriptional regulator interacting with the PHD-bromodomain 1
+aglandin H2 synthase 2
+tripartite motif protein TRIM5
+protein kinase B alpha
+heparan sulfate proteoglycan
+actin, beta pseudogene
+acid stable subunit of the 140 K IGF complex
+microtubule-associated protein 2 kinase
+T cell receptor alpha locus
+voltage-gated L-type calcium channel Cav1.2 alpha 1 subunit, splice variant 10*
+44 kDa bone phosphoprotein
+DR beta 1 chain
+nucleoside-diphosphate kinase 1
+rhodopsin (opsin 2, rod pigment) (retinitis pigmentosa 4, autosomal dominant)
+phosphatidylinositol 3-kinase, catalytic, 110-KD, alpha
+MACH-beta-1/2/3/4 protein
+nuclear factor NF-kappa-B p50 subunit
+estrogen nuclear receptor alpha
+glycogen synthase kinase 3 beta
+protein tyrosine phosphatase, non-receptor type 22 (lymphoid)
+testosterone-repressed prostate message 2
+L-dopachrome isomerase
+peroxisome proliferator-activated receptor gamma
+nuclear factor erythroid-derived 2-like 2
+C3-binding protein
+tein
+1-phosphatidyl-D-myo-inositol-4,5-bisphosphate
+Na(+)/K(+) ATPase alpha-2 subunit
+oncoprotein Mdm2
+heparan sulfate proteoglycan fibroblast growth factor receptor
+tissue transglutaminase
+interferon receptor 1-bound protein 4
+actin-related protein 3B-like
+caspase 3, apoptosis related cysteine protease
+matrix metalloproteinase 1
+ARNT-interacting protein
+purinergic receptor P2X, ligand-gated ion channel, 7
+otease CPP32
+sodium/potassium-transporting ATPase subunit alpha-2
+1-phosphatidylinositol-4,5-bisphosphate phosphodiesterase gamma-1
+hARK1
+v-src sarcoma (Schmidt-Ruppin A-2) viral oncogene homolog (avian)
+matrix metalloproteinase 9
+mechanistic target of rapamycin (serine/threonine kinase)
+leptin (murine obesity homolog)
+ctase (NAD(P)H)
+cytotoxic T-lymphocyte-associated antigen 4
+huntingtin
+multidrug resistance protein 1
+phosphatidylinositol 3,4,5-trisphosphate 3-phosphatase and dual-specificity protein phosphatase PTEN
+transportin-SR
+inward rectifier K(+) channel Kir6.2
+growth hormone-releasing peptide
+peroxisome proliferator-activated receptor gamma 1
+very late activation protein, beta polypeptide
+prealbumin, amyloidosis type I
+aurora/IPL1-related kinase 1
+expressed in non-metastatic cells 1, protein
+recombination protein A
+Uncharacterized protein ypmR
+interferon-alpha/beta receptor 1
+CD274 antigen
+zinc finger E-box-binding homeobox 1
+sodium channel, voltage-gated, type I, alpha subunit
+Sgs1p
+non-metastatic cells 2, protein (NM23B) expressed in
+potassium inwardly-rectifying channel, subfamily J, member 11
+mucin-1
+nuclear factor of kappa light chain gene enhancer in B-cells 1, p105
+preinterleukin 1 beta
+cannabinoid receptor 1 (brain)
+B-cell differentiation factor
+folate receptor 1 (adult)
+angiotensinogen
+protease nexin-II
+ERp60
+nuclear factor of kappa light polypeptide gene enhancer in B-cells 1, p105
+celiac disease 3
+sirtuin 1
+tumor necrosis factor alpha
+DNA strand exchange and recombination protein with protease and nuclease activity
+MGF
+HIF-1-alpha
+ERK-2
+gap junction membrane channel protein alpha 1
+tumor necrosis factor-induced gene 1
+proto-oncogene c-Kit
+pro-melanin-concentrating hormone
+sodium channel protein type 1 subunit alpha
+ceptor subfamily 1 group F member 1
+osteopontin/immunoglobulin alpha 1 heavy chain constant region fusion protein
+migration-stimulating factor
+IBP-2
+IBP-3
+monocyte chemoattractant protein-1
+forkhead box A2
+apo-1 antigen
+signal transducer and transcription activator 6
+alpha-synuclein
+orexin receptor 1
+HD protein homolog
+minopontin
+cell proliferation-inducing protein 61
+myc-related translation/localization regulatory factor
+GP90 lymphocyte homing/adhesion receptor
+tumor necrosis factor receptor superfamily, member 1B
+cell growth inhibiting protein 40
+tumor necrosis factor receptor superfamily, member 1A
+sterol carrier protein 2
+hepatocyte nuclear factor 4, alpha
+voltage-dependent P/Q-type calcium channel subunit alpha-1A
+serotonin), member 4
+ATPase, Na+/K+ transporting, alpha 2 polypeptide
+voltage-dependent L-type calcium channel subunit alpha-1C
+r-activated receptor gamma 1
+clinically amyopathic dermatomyositis autoantigen 140 kDa
+DNA methyltransferase HsaI
+serine/threonine-protein kinase 15
+gamma-aminobutyric acid (GABA) B receptor, 1
+apoptotic cysteine protease
+abrineurin
+hepatocyte nuclear factor-3 beta
+polymorphic epithelial mucin
+CRP55
+CD138 antigen
+ein kinase erbB-1
+casein kinase II subunit alpha
+ox1-R
+colchicin sensitivity
+PWP1-interacting protein 4
+CD4 receptor
+beta-1 adrenergic receptor
+leukotriene C(4) transporter
+T-cell-specific surface glycoprotein CD28
+protein kinase C epsilon type
+androgen nuclear receptor variant 2
+alpha-1-antitrypsin
+SIR2-like protein 1
+apoB-48
+RAD51 homolog (RecA homolog, E. coli)
+is factor alpha
+extracellular matrix receptor III
+lymphoid-specific protein tyrosine phosphatase
+Ku autoantigen, 70kDa
+T-lymphocyte activation antigen CD80
+glucocorticoid nuclear receptor variant 1
+glucagon-like peptide I
+or gamma 2
+interleukin 10
+aquaporin type4
+ABPP
+PHF-tau
+v-rel reticuloendotheliosis viral oncogene homolog A (avian)
+multiple tumor suppressor 2
+sex steroid-binding protein
+multiple tumor suppressor 1
+IkappaBalpha
+sperm-associated protein
+T-lymphocyte activation antigen CD86
+ba-alpha-2-glycoprotein
+transforming growth factor-beta 1
+calcium channel, L type, alpha-1 polypeptide, isoform 1, cardiac muscle
+heat shock 70kDa protein 8
+CD152 isoform
+heat shock 70kDa protein 4
+integrin alpha 5 (fibronectin receptor alpha)
+actin-11-like
+phospholipase C, gamma 1
+MDM2 variant FB30
+estrogen receptor beta
+interleukin-1 beta
+herstatin
+MDM2 variant FB28
+toma-associated protein 1
+transglutaminase 2 (C polypeptide, protein-glutamine-gamma-glutamyltransferase)
+Harvey rat sarcoma virus oncogene 1
+permeability factor
+c-fos oncogene
+BCL2-like 1
+phosphoinositidase C
+sodium-dependent serotonin transporter
+extracellular signal-regulated kinase 1
+extracellular signal-regulated kinase 2
+syndecan proteoglycan 1
+apoA-I
+circadian locomoter output cycles kaput protein
+cation-independent mannose-6-phosphate receptor
+cAMP-regulated guanine nucleotide exchange factor I
+homing function and Indian blood group system
+zinc transporter 8
+PYRIN-containing APAF1-like protein 1
+30 kDa adipocyte complement-related protein
+FBJ murine osteosarcoma viral oncogene homolog
+granulocyte chemotactic protein 1
+WCH4
+beta-2 adrenoreceptor
+APC1 protein
+tumor protein p53
+8-hydroxyguanine DNA glycosylase
+COUP-TF I
+A-binding factor KBF1
+G0/G1 switch regulatory protein 7
+MHC class II antigen
+beta-thromboglobulin-like protein
+serine/threonine-protein kinase 6
+sodium pump subunit alpha-2
+-1-2
+superoxide dismutase, cystolic
+alpha-1-antitrypsin null
+P-glycoprotein 1
+cell cycle regulatory protein p95
+n receptor alpha delta 3*,4,5,6,7*,8*/941 isoform
+e I
+Dominant white spotting
+ku70-binding protein 1
+BCL-1 oncogene
+fibroblast growth factor 2 (basic)
+telomerase-associated protein 2
+Na+/Cl- dependent serotonin transporter
+NAD-dependent deacetylase sirtuin-1
+estrogen receptor alpha delta 4*,5,6,7,8*/901 isoform
+1-phosphatidylinositol-4,5-bisphosphate phosphodiesterase gamma 1
+apopain
+tumor necrosis factor ligand superfamily member 2
+hepatocyte nuclear factor 3 beta (winged helix transcription factor)
+hypoxia inducible factor 1, alpha subunit (basic helix-loop-helix transcription factor)
+SERTA domain containing 1
+p21ras
+expressed in non-metastatic cells 1 protein (NM23A) (nucleoside diphosphate kinase)
+v-fos FBJ murine osteosarcoma viral oncogene homolog
+ptdIns-3-kinase subunit p110-alpha
+pro-epidermal growth factor
+1,25-dihydroxyvitamin D3 receptor
+p145 c-kit
+uropontin
+CDK-interaction protein 1
+regulatory protein SIR2 homolog 1
+ptdIns-3-kinase regulatory subunit p85-alpha
+ability factor
+proto-oncogene c-ErbB-1
+tRNA synthetase cofactor p38
+proto-oncogene c-ErbB-2
+transcription factor 14
+protease inhibitor 1 (anti-elastase), alpha-1-antitrypsin
+orexin receptor type 2
+orexin receptor type 1
+ATP-binding cassette sub-family E member 1
+p50 subunit of NF-kappaB
+obese protein
+p15_INK4B
+huntington disease protein
+78 kDa glucose-regulated protein
+IFN-alpha/beta receptor 1
+serum paraoxonase/arylesterase 1
+VLA-5
+alpha transcription factor 4
+alpha-type CGRP
+EBP-1
+5,10-methylenetetrahydrofolate reductase (NADPH)
+calreticulin
+Steel Factor Receptor
+endoplasmic reticulum lumenal Ca(2+)-binding protein grp78
+etID22686.5
+v-kit Hardy-Zuckerman 4 feline sarcoma viral oncogene homolog
+leptin
+MHC class I antigen SHCHA
+MHC class I antigen HLA-A heavy chain
+DHPR, alpha-1 subunit
+m.HsaI
+casein kinase II alpha 1 subunit
+c-Kirsten-ras protein
+hypocretin receptor-1
+complement lysis inhibitor
+tripartite motif containing 5
+RNase 3
+tripartite motif containing 5 transcript variant iota
+gene trap ROSA 26, Philippe Soriano
+cathepsin B1
+transcription factor 3B
+NACHT domain-, leucine-rich repeat-, and PYD-containing protein 3
+protein 4
+G/T mismatch-binding protein
+e synthesis inhibitory factor
+nuclear factor NF-kappa-B p65 subunit
+alpha CGRP
+kallikrein-binding protein
+ial cadherin
+adipose specific collagen-like factor
+type V collagenase
+CGRP-I
+fibronectin receptor alpha polypeptide
+v-akt murine thymoma viral oncogene homolog 1
+complement cytolysis inhibitor
+protein XRP2
+PKB alpha
+SDF-1 receptor
+lysosomal aspartyl protease
+FBJ osteosarcoma oncogene
+phosphatidylinositol phospholipase C
+IFN-gamma
+expressed in non-metastatic cells 1, protein (NM23A) (nucleoside diphosphate kinase)
+serpin A3C
+protein PML
+MHC class I antigen GN00104
+50S ribosomal protein L1
+50S ribosomal protein L2
+GTMBP
+early T cell costimulatory molecule-1
+GTPase HRas
+vesicular, overexpressed in cancer, prosurvival protein 1-like
+Machado-Joseph disease (spinocerebellar ataxia 3, olivopontocerebellar ataxia 3, autosomal dominant, ataxin 3)
+IL-1 beta
+NDP kinase
+thyroid-lupus autoantigen p70
+MAP kinase p38 alpha
+actin-related protein 3-like
+E-Cadherin
+interferon beta-2
+DNA (cytosine-5-)-methyltransferase 1
+8*/901 isoform
+nuclear factor of activated T-cells, cytoplasmic 2
+Janus kinase 2 (a protein tyrosine kinase)
+ribonuclease, RNase A family, 3
+rschsprung disease)
+ataxin 3
+TATA box binding protein
+waved 2
+myelocytomatosis oncogene
+esterase A
+GABA-BR1b receptor
+92kD gelatinase
+non A-beta component of AD amyloid
+matrix metalloproteinase-9
+Nucleoside diphosphate kinase
+70 kDa subunit of Ku antigen
+reductase (NADPH)
+NF-kappa-B inhibitor alpha
+plasmin
+abundant SRC homology
+NOSIII
+amyloid A4
+P/Q-type calcium channel alpha1A subunit
+channel conductance-controlling ATPase
+cation-independent mannose-6 phosphate receptor
+homolog of Drosophila toll
+matrix metalloproteinase 9 (gelatinase B, 92kDa gelatinase, 92kDa type IV collagenase)
+antigen presenting molecule
+enkephalinase
+myeloid differentiation primary response protein MyD88
+nucleoside diphosphate kinase
+K-Ras 2
+rapamycin associated protein FRAP2
+glucagon
+rogen receptor alpha E1-E2-1-2
+nuclear receptor subfamily 6 group A member 1
+TG(C)
+epidermal growth factor receptor
+importin 12
+or Bcl-2
+cystatin-3
+T-cell surface glycoprotein CD4
+CK2 catalytic subunit alpha
+focal adhesion kinase-related nonkinase
+Serologically defined colon cancer antigen 1 homolog
+Abeta-degrading protease
+macrophage activation-associated marker protein P71/73
+Knops blood group antigen
+apo-E
+transforming growth factor beta-1
+mitogen-activated protein kinase p38 alpha
+peptidase nexin-II
+alpha-2-macroglobulin
+hematopoietic cell E- and L-selectin ligand
+AT mutated
+mechano growth factor
+hybridoma growth factor
+coatomer protein2
+kininase II
+cystatin-C
+epican
+OB receptor
+neural cell adhesion molecule, NCAM
+IGF-II receptor
+PKA C-alpha
+serum aryldiakylphosphatase
+T-cell chemotactic factor
+300 kDa mannose 6-phosphate receptor
+epsilon-COP
+neuroblastoma/glioblastoma derived oncogene homolog
+Ubi4p
+peptidase P
+proto-oncogene c-AKT
+CXXC finger protein 9
+CD4 molecule
+ghrelin/obestatin preprohormone
+avian erythroblastic leukemia viral (v-erb-a) oncogene homolog-like 3
+retinoblastoma-binding protein 3
+SCFR
+Core and e antigen
+fibroblast growth factor 1 (acidic)
+complement-associated protein SP-40,40
+coagulation factor II (thrombin)
+connexin 43
+promyelocytic leukemia
+alpha 3*,4,5,6,7*/822 isoform
+neutrophil-activating peptide 1
+ibility protein 1
+X-ray repair complementing defective repair in Chinese hamster cells 6
+DNA mismatch repair protein Mlh1
+peroxisome proliferator activated receptor gamma
+stromal cell-derived factor 1 receptor
+very late activation protein 5, alpha subunit
+beta-catenin
+CDK4B inhibitor
+myeloid differentiation primary response gene 88
+amyloid precursor protein secretase
+thyroid autoantigen 70kD (Ku antigen)
+acidic fibroblast growth factor
+protein arginine methyltransferase 1
+programmed death ligand 1
+proto-oncogene tyrosine-protein kinase Src
+leptin receptor
+PGH synthase 2
+(p15, inhibits CDK4)
+nuclear factor kappaB p50
+mucin 1, transmembrane
+ox2-R
+cystic fibrosis transmembrane conductance regulator (ATP-binding cassette sub-family C, member 7)
+retinoblastoma-associated protein
+estrogen receptor alpha delta 3*,4,5,6,7*/819-2 isoform
+somatomedin-A
+mitogen-activated protein kinase kinase kinase 7-interacting protein 2
+somatomedin-C
+promyelocytic leukemia, inducer of
+hepatic nuclear factor 4, alpha
+DNA-binding protein APRF
+monophosphatidylinositol phosphodiesterase
+factor of kappa light polypeptide gene enhancer in B-cells 1
+signal transducer and activator of transcription 3 (acute-phase response factor)
+programmed cell death 1
+PCO148993_ov
+krebs von den Lungen-6
+major prion protein
+prostaglandin-endoperoxide synthase 2 (prostaglandin G/H synthase and cyclooxygenase)
+fibronectin 1
+sir2-like 1
+CD143 antigen
+testis-specific androgen-binding protein
+potassium channel, inwardly rectifying subfamily J member 11
+protein kinase B-alpha
+calregulin
+nucleotide-binding oligomerization domain, leucine rich repeat and pyrin domain containing 3
+thymoma viral proto-oncogene 1
+fibronectin receptor subunit beta
+retinoblastoma suspectibility protein
+central cannabinoid receptor
+HEBP1
+ctivated protein kinase 1
+focal adhesion kinase 1
+chaperonin 60
+class E basic helix-loop-helix protein 39
+epidermal growth factor receptor-binding protein GRB2
+cytokine synthesis inhibitory factor
+60 kDa heat shock protein, mitochondrial
+antigen identified by monoclonal antibody R1
+tripartite motif-containing protein 5
+actin-related protein 2/3 complex subunit 1A-like
+neural cell adhesion molecule L1
+B-cell hybridoma growth factor
+transcription initiation factor TFIID TBP subunit
+testosterone-estrogen-binding globulin
+apolipoprotein AI regulatory protein 1
+caspase 3, apoptosis-related cysteine peptidase
+CG2210-PA
+F-actin-capping protein subunit beta isoforms 1 and 2-like
+INF-a receptor
+dopamine receptor interacting protein 4
+apoB-100
+peroxisome proliferator-activated nuclear receptor gamma variant 1
+DnaJ (Hsp40) homolog, subfamily B, member 11
+spitz
+EPAC 1
+Ssc1p
+nitric oxide synthase 2, inducible
+ring finger protein 88
+HNF-3B
+K-45
+AMP diphosphorylase
+carboxycathepsin
+interleukin-10
+Hermes antigen
+interleukin 1, beta
+alpha-2-M
+orexin A
+ataxin 3 variant m
+orexin B
+angiotensin I
+hepatocyte nuclear factor 3-beta
+60 kDa chaperonin
+(TNF receptor superfamily member)
+calcium-dependent adhesion protein, epithelial
+phosphatidylinositol 3-kinase, regulatory subunit, polypeptide 1 (p85 alpha)
+olog of vCARMEN
+cell growth-inhibiting protein 32
+PHS II
+ataxin 3 variant h
+p15 CDK inhibitor
+beta-neoendorphin-dynorphin
+adenosine 5'-monophosphoramidase
+Na+/K+ ATPase, alpha-B polypeptide
+aurora-related kinase 1
+preprodynorphin
+D(2) dopamine receptor
+fibronectin receptor, alpha subunit
+leptin (obesity homolog, mouse)
+nephropontin
+ATP-binding cassette, sub-family C (CFTR/MRP), member 1
+class E basic helix-loop-helix protein 78
+cytotoxic T-lymphocyte-associated protein 4
+related to A and C kinases
+amyloid beta A4 protein
+C-reactive protein
+connexin-43
+interstitial collagenase
+breast and ovarian cancer susceptibility protein 1
+matrix metallopeptidase 9 (gelatinase B, 92kDa gelatinase, 92kDa type IV collagenase)
+v-erb-b2 erythroblastic leukemia viral oncogene homolog 2, neuro/glioblastoma derived oncogene homolog (avian)
+breast cancer 2 tumor suppressor
+caspase 3, apoptosis-related cysteine protease
+ghrelin/obestatin prepropeptide
+Rad51p
+CD80 antigen
+small inducible cytokine A2 (monocyte chemotactic protein 1, homologous to mouse Sig-je)
+abnormal wings disc
+estrogen receptor alpha E1-N2-E2-1-2
+B7 protein
+glucocorticoid-regulated inflammatory cyclooxygenase
+thyroid autoantigen 70kDa (Ku antigen)
+FASLG receptor
+putative Gardos channel
+GABA-B-R1
+phosphoinositide-3-kinase, catalytic, alpha polypeptide
+toll/interleukin-1 receptor-like protein 4
+MAPK 14
+alpha-1-antiproteinase
+beta-2 adrenoceptor
+FK506 binding protein 12-rapamycin associated protein 2
+FK506 binding protein 12-rapamycin associated protein 1
+viral (v-erb-b) oncogene homolog
+RecA, E. coli, homolog of
+chicken ovalbumin upstream promoter-transcription factor
+regulator Bcl-2
+estrogen receptor alpha delta 4 +49 isoform
+gap junction 43 kDa heart protein
+macrophage migration inhibitory factor (glycosylation-inhibiting factor)
+NF-kappaB p50
+nuclear receptor subfamily 2 group F member 1
+PAS domain-containing protein 8
+IGF-binding protein 2
+IGF-binding protein 3
+ription factor 8 (represses interleukin 2 expression)
+insulin protease
+alpha-1 antiproteinase
+transportin-3
+insulin-like growth factor binding protein 3
+B cell leukemia/lymphoma 2
+aFGF
+adenomatosis polyposis coli
+GSK3beta isoform
+cytotoxic T lymphocyte associated antigen 4 short spliced form
+HLA class I histocompatibility antigen, B alpha chain
+Rad52p
+en receptor alpha delta 3*,4,5,6,7*/819-2 isoform
+TNF-RII
+nerve growth factor receptor
+PGHS-2
+histone-arginine N-methyltransferase PRMT1
+piebald trait protein
+ulatory subunit 53
+rhodopsin
+hSIRT1
+K-fibroblast growth factor
+clusterin
+osteopontin
+cannabinoid receptor 1
+B-cell growth factor 1
+5-hydroxytryptamine transporter
+interferon gamma
+CG10334-PE
+phospholipase C-148
+CG10334-PG
+, endothelial
+CG10334-PF
+lysosomal aspartyl peptidase
+tumor necrosis factor receptor 2
+v-jun sarcoma virus 17 oncogene homolog
+belly-spot
+major histocompatibility complex, class I, A
+M6PR
+major histocompatibility complex, class I, B
+NOS type II
+folate binding protein 1
+seven transmembrane helix receptor
+protein kinase CK2
+enhancer-binding protein AP1
+aromatic esterase 1
+CG10334-PA
+CG10334-PB
+protease nexin II
+C3 and PZP-like alpha-2-macroglobulin domain-containing protein 5
+nerve growth factor-induced protein A
+M6P/IGF2R
+receptor subfamily 3 group A member 1
+tyrosine-protein kinase SRC-1
+SPP-1
+fusin
+extracellular signal-related kinase 1
+Janus kinase 2
+triphosphoinositide phosphodiesterase
+angiotensin I converting enzyme peptidyl-dipeptidase A 1 transcript
+gamma-aminobutyric acid type B receptor subunit 1
+receptor alpha delta 4 +49 isoform
+cancer/testis antigen 75-like
+NF-kappa-B1 p84/NF-kappa-B1 p98
+transcription factor Zif268
+channel-like integral membrane protein, 28-kDa
+(A4) precursor protein
+p38 MAPK
+mast/stem cell growth factor receptor Kit
+lipopolysaccharide response
+catenin (cadherin-associated protein), beta 1, 88kDa
+beta-1 adrenoreceptor
+actin, cytoplasmic 1-like
+glutamate carboxypeptidase II
+breast cancer 1
+92kDa type IV collagenase
+CD28 molecule
+ataxin 3 variant ref
+estrogen nuclear receptor beta variant a
+MOG alpha-5
+LEP-R
+estrogen nuclear receptor beta variant b
+growth hormone-dependent binding protein
+CD49 antigen-like family member E
+serine/threonine-protein kinase aurora-A
+nuclear receptor subfamily 3, group C, member 1 (glucocorticoid receptor)
+Cdc28p
+MHC Class I HLA heavy chain
+multiplication-stimulating polypeptide
+IL-1 gamma
+trk
+endothelial nitric oxide synthase
+testosterone-binding beta-globulin
+short heat shock protein 60 Hsp60s1
+GSK-3 beta
+mutant Apo B 100
+SEI-1
+gelatin-binding protein 28
+cancer-related nucleoside-triphosphatase-like
+8-oxoguanine DNA glycosylase
+CTL differentiation factor
+l-dipeptidase A) 1
+hCLAP
+iboctadekin
+apolipoprotein A-I
+hypoxia-inducible factor 1, alpha subunit (basic helix-loop-helix transcription factor)
+serine-protein kinase ATM
+adrenergic, beta-1-, receptor
+urine water channel
+ATP-dependent DNA helicase II, 70 kDa subunit
+growth hormone secretagogue
+II histocompatibility antigen, DQ beta 1 chain
+P2Z receptor
+phosphatidylinositol 4,5-bisphosphate 3-kinase catalytic subunit alpha isoform
+awd-PA
+alpha-1 protease inhibitor
+lung giant cell carcinoma-derived chemotactic protein
+PKC-A
+immunodeficiency, polyendocrinopathy, enteropathy, X-linked
+IPL1-related kinase
+granzyme A-activated DNase
+prostaglandin G/H synthase 2
+phospholipase C-II
+serine protease inhibitor A3C
+nthase 2
+urinary stone protein
+preproinsulin
+nitric oxide synthase, endothelial
+estrogen receptor 2 (ER beta)
+CDK4-binding protein p34SEI1
+methylenetetrahydrofolate reductase (NAD(P)H)
+breast cancer type 1 susceptibility protein
+Jun activation domain binding protein
+vitamin D nuclear receptor variant 1
+EC-NOS
+monocyte chemotactic and activating factor
+interleukin 6
+ER-associated Hsp40 co-chaperone
+interleukin 4
+vascular endothelial growth factor A
+serpin A1
+interleukin 8
+H2AX histone
+insulin-like growth factor 2 (somatomedin A)
+trk-A
+nucleoside diphosphate kinase B
+nucleoside diphosphate kinase A
+nuclear factor NF-kappa-B p105 subunit
+hSIR2
+serpin A8
+5-hydroxytryptamine (serotonin) transporter
+Tel1p
+peanut-reactive urinary mucin
+NFE2-related factor 2
+ribonuclease 3
+prodynorphin
+or necrosis factor
+lymphoid phosphatase
+HNF4alpha10
+HNF4alpha11
+HNF4alpha12
+ATP-binding cassette sub-family C member 7
+rapamycin target protein 1
+B-cell stimulatory factor 2
+aquaporin 1 (channel-forming integral protein, 28kDa, CO blood group)
+B-cell stimulatory factor 1
+LTC4 transporter
+member of PAS protein 1
+gamma interferon
+alzheimer disease amyloid protein
+sterol carrier protein X
+class E basic helix-loop-helix protein 8
+rap guanine nucleotide exchange factor 3
+Aurora-A kinase
+tropomyosin-related kinase A
+immunoglobulin heavy chain-binding protein
+osteopontin-like protein
+prostaglandin-endoperoxide synthase 2
+lymphocyte stimulatory factor 1
+CXC-R4
+type 1 susceptibility protein
+beta-amyloid peptide
+ribonuclease 4 inhibitor
+sirtuin type 1
+tripartite motif protein TRIM19
+ATP-binding cassette, sub-family E (OABP), member 1
+jun oncogene
+serpin E1
+transthyretin
+leukocyte-derived seven transmembrane domain receptor
+breast cancer 1, early onset
+Fas (TNF receptor superfamily member 6)
+tyrosine-protein phosphatase non-receptor type 22
+TNF-R1
+MHC DQ beta
+TNF-R2
+aurora kinase A
+tripartite motif-containing protein 19
+protein phosphatase 1, regulatory subunit 50
+protein phosphatase 1, regulatory subunit 53
+protein phosphatase 1, regulatory subunit 52
+hemochromatosis
+CADM-140 autoantigen
+TNF-RI
+cell surface glycoprotein CD44
+expressed in non-metastatic cells 2
+sex hormone-binding globulin
+cellular oncogene fos
+COUP-TF1
+cytotoxic ribonuclease
+DNA repair protein RAD51 homolog 1
+andin H2 synthase 2
+transcription factor COUP 1 (chicken ovalbumin upstream promoter 1, v-erb-a homolog-like 3)
+retinoid-related orphan receptor alpha
+hypoxia-inducible factor1alpha
+ia mutated
+proto-oncogene tyrosine-protein kinase Kit
+retinoid X nuclear receptor alpha
+chemokine (C-X-C motif) receptor 4
+zinc transporter ZnT-8
+TNFR-I
+gap junction protein, alpha 1
+calcium channel, voltage-dependent, P/Q type, alpha 1A subunit
+PDCD1 ligand 1
+nucleophosmin (nucleolar phosphoprotein B23, numatrin)
+CASP-3
+COUP transcription factor 1
+H-Ras-1
+calcitonin/calcitonin-related polypeptide, alpha
+COUP transcription factor 2
+immune interferon
+small-inducible cytokine A2
+143 antigen
+mGCNF
+transglutaminase-2
+COUP transcription factor I
+v-kit Hardy-Zuckerman 4 feline sarcoma viral oncogene-like protein
+caterpiller protein 1.1
+neural cell adhesion molecule 1
+Colton blood group
+IFN-R-1
+integrin, alpha 5 (fibronectin receptor, alpha polypeptide)
+phosphoinositide phospholipase C
+protein phosphatase 1, regulatory subunit 47
+protein kinase A catalytic subunit
+MPR 300
+ty protein 1
+eling factor - 55kD
+interleukin-18
+HNF4alpha10/11/12
+human leucocyte antigen DRB1
+MAP kinase isoform p42
+MMAC1 phosphatase and tensin homolog deleted on chromosome 10
+1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase gamma-1
+B-cell IgG differentiation factor
+cyclin
+transcription factor AP-1
+FADD-like ICE
+tRNA
+glutathione S-aralkyltransferase
+superoxide dismutase 1, soluble
+MAP kinase isoform p44
+heat shock 70kd protein 10
+insulin-stimulated MAP2 kinase
+ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)
+TGase-2
+TGase-H
+Pr55(Gag)
+integrin, beta 1 (fibronectin receptor, beta polypeptide, antigen CD29 includes MDF2, MSK12)
+ALG-2 interacting protein 1
+apoptosis-mediating surface antigen FAS
+MAC-NOS
+c-Ki-ras
+endothelial NOS
+alpha-1 antiproteinase, antitrypsin
+owth factor, beta 1
+ocompatibility antigen, B alpha chain
+thyroid hormone nuclear receptor alpha variant 4
+PTK2 protein tyrosine kinase 2
+folate receptor alpha
+p53 and DNA damage-regulated protein 1-like
+sodium channel, voltage-gated, type I, alpha polypeptide
+hypocretin
+Niemann-Pick disease, type C1
+soluble TNFR1B variant 1
+abnormal wing discs
+serum aryldialkylphosphatase 1
+serine/threonine kinase 6
+breast and ovarian cancer susceptibility gene, early onset
+soluble KIT variant 1
+Ku autoantigen p70 subunit
+cytotoxic T-lymphocyte protein 4
+obese, mouse, homolog of
+CD184 antigen
+basic fibroblast growth factor
+C3b/C4b receptor
+cyclin-dependent kinase inhibitor 2A
+proliferating cell nuclear antigen
+catechol O-methyltransferase
+PES-2
+S-transferase M1
+MOG Ig-AluB
+FOXP3delta7
+BCL2-associated X protein omega
+TAB-2
+tumor necrosis factor receptor superfamily member 6
+cold autoinflammatory syndrome 1 protein
+nucleotide diphosphate kinase
+constitutive NOS
+tripartite motif containing 5 transcript variant kappa
+epithelial cadherin
+NACHT, LRR and PYD domains-containing protein 3
+eosinophil cationic protein
