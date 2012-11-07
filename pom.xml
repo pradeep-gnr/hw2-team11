@@ -5,8 +5,8 @@
 	<artifactId>hw2-team11</artifactId>
 	<version>0.0.1</version>
 	  <scm>	
-	    <connection>scm:git:git@github.com:pradeep-gnr/hw1-ppravind.git</connection>
-	    <developerConnection>scm:git:git@github.com:pradeep-gnr/hw1-ppravind.git</developerConnection>
+	    <connection>scm:git:git@github.com:pradeep-gnr/hw2-team11.git</connection>
+	    <developerConnection>scm:git:git@github.com:pradeep-gnr/hw2-team11.git</developerConnection>
 	  </scm>
 	<repositories>
 		<repository>
