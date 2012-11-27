@@ -13,6 +13,9 @@ import com.aliasi.util.AbstractExternalizable;
 
 import edu.cmu.lti.oaqa.cse.basephase.keyterm.AbstractKeytermExtractor;
 import edu.cmu.lti.oaqa.framework.data.Keyterm;
+import edu.stanford.nlp.ling.TaggedWord;
+import edu.stanford.nlp.parser.lexparser.LexicalizedParser;
+import edu.stanford.nlp.trees.Tree;
 
 
 public class zhiqilKeytermExtractor extends AbstractKeytermExtractor {
@@ -33,6 +36,20 @@ public class zhiqilKeytermExtractor extends AbstractKeytermExtractor {
         Keyterm k = new Keyterm(question.substring(chunk.start(), chunk.end()));    
         keyTermList.add(k);          
       }
+      
+      LexicalizedParser lp = LexicalizedParser.loadModel("edu/stanford/nlp/models/lexparser/englishPCFG.ser.gz"); 
+     
+      Tree tree = lp.apply(question);
+      List<TaggedWord> taggedWords = tree.taggedYield();
+      for (TaggedWord tw : taggedWords) {
+        if (tw.tag().startsWith("N") || tw.tag().startsWith("V")) {
+          if (!tw.word().equals("is") && (!tw.word().equals("are")) & (!tw.word().equals("do")) && (!tw.word().equals("does"))) {
+            Keyterm k = new Keyterm(tw.word());
+            keyTermList.add(k);
+          }
+        }
+      }  
+   
     } catch (IOException e) {
       e.printStackTrace();
     } catch (ClassNotFoundException e) {
