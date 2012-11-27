@@ -1,3 +1,4 @@
+aurora-B
 apoptosis-inducing factor, mitochondrion-associated, 3
 P2X7 receptor
 nitric oxide synthase 2A (inducible, hepatocytes)
@@ -6,8 +7,10 @@ A-esterase 1
 C1Q and collagen domain containing
 laforin-like
 transglutaminase C
+cible factor 1, alpha subunit (basic helix-loop-helix transcription factor)
 nuclear factor erythroid 2-related factor 2
 thyroglobulin
+aurora-1
 thioredoxin domain-containing protein 3-like
 apolipoprotein A1
 Rap guanine nucleotide exchange factor (GEF) 3
@@ -18,10 +21,10 @@ cystic fibrosis transmembrane conductance regulator homolog; ATP-binding cassett
 vitamin D3 receptor
 modulator of apoptosis 1-like
 hypoxia-inducible factor 1 alpha isoform I.3
-squamous cell carcinoma antigen recognized by T cells
 heat shock 70kD protein 4
 p53 cellular tumor antigen
 post-gamma-globulin
+squamous cell carcinoma antigen recognized by T cells
 catenin beta-1
 membrane metallo-endopeptidase (neutral endopeptidase, enkephalinase, CALLA, CD10)
 MMP-2
@@ -39,6 +42,8 @@ DF3 antigen
 K-ras p21 protein
 major histocompatibility complex, class II, DQ beta 1
 ceptibility protein 1
+its CDK4)
+interferon
 heat shock cognate 71 kDa protein
 mutS homolog 2, colon cancer, nonpolyposis type 1 (E. coli)
 yloid beta A4 protein
@@ -92,8 +97,8 @@ B7 homolog 1
 heme oxygenase (decycling) 1
 glutathione S-alkyltransferase
 fibroblast growth factor 4
-doxorubicin resistance
 macrophage migration inhibitory factor
+doxorubicin resistance
 92 kDa gelatinase
 interleukin HP-1
 fibroblast growth factor 1
@@ -120,6 +125,7 @@ B-cell lymphoma 1 protein
 pre-angiotensinogen
 E3 ubiquitin-protein ligase parkin-like
 zinc finger protein PLAG1-like
+focal ashension kinase 1
 integrin beta 1 (fibronectin receptor beta)
 tumor necrosis factor-alpha
 osteosarcoma amplified 9, endoplasmic reticulum lectin
@@ -139,6 +145,7 @@ diadenosine tetraphosphate synthetase
 TATA sequence-binding protein
 to-oncogene c-ErbB-1
 MHC class I-like protein HFE
+serine/threonine kinase 12
 MAP kinase 14
 phagocytic glycoprotein 1
 helicard
@@ -148,6 +155,7 @@ p14-INK4b
 josephin
 proto-oncogene c-Jun
 tyr-DNA phosphodiesterase 1
+factor beta-1
 nitric oxide synthase 2, inducible, macrophage
 M6P/IGF2 receptor
 procaspase3
@@ -157,7 +165,9 @@ early growth response 2
 tumor necrosis factor
 estrogen receptor alpha delta 3*,4,5,6,7*,8*/941 isoform
 breast cancer type 2 susceptibility protein
+alpha-2-Z-globulin
 MAP kinase 1
+B transmembrane glycoprotein
 adenomatous polyposis coli
 MAP kinase 2
 TGF-beta 1 protein
@@ -177,10 +187,11 @@ inducible nitric oxide synthase
 apoptosis-stimulating of p53 protein 1-like
 serine/threonine-protein kinase GSK3B
 tumor suppressor homolog p53
+CARD-containing proapoptotic protein
 family with sequence similarity 123A
 mammalian CARD-containing adapter molecule E10
-family with sequence similarity 123C
 GREB1-like protein-like
+family with sequence similarity 123C
 family with sequence similarity 123B
 Rad6p
 putative Lysophospholipase L1 (SGNH hydrolase-type)
@@ -202,10 +213,12 @@ insulin-like growth factor 1
 serpin peptidase inhibitor, clade E (nexin, plasminogen activator inhibitor type 1), member 1
 insulin-like growth factor 2
 leukocyte-derived seven-transmembrane-domain receptor
+in-glutamine-gamma-glutamyltransferase)
 calcium channel, voltage-dependent, L type, alpha 1C subunit
 heat shock 70 kDa protein 4
 92 kDa type IV collagenase
 c-Ha-ras transgene
+gene homolog (avian)
 v-jun avian sarcoma virus 17 oncogene homolog
 oncogene AML-3
 thyroxine-binding prealbumin
@@ -236,6 +249,7 @@ CXCR-4
 ATP-binding cassette, sub-family G (WHITE), member 2
 antigen recognized by monoclonal antibody 5.1H11
 brain derived neurothrophic factor
+wth factor beta-1
 5'-dRP lyase Ku70
 beta-1 adrenoceptor
 differentiation-related gene 1 protein
@@ -250,24 +264,30 @@ ATP-sensitive inward rectifier potassium channel 11
 p300
 serine (or cysteine) proteinase inhibitor, clade A, member 3C
 major histocompatibility complex enhancer-binding protein MAD3
+gelatinase
 histone H2A.x
 92kDa gelatinase
 CG4236-PA
 p75 TNF receptor
 CG4236-PB
 protein CASC4-like
+r receptor subfamily 1 group C member 3
 nuclear factor of kappa light polypeptide gene enhancer in B-cells inhibitor, alpha
 I-kappa-B-alpha
 early T-cell costimulatory molecule 1
 colorectal carcinoma-associated protein
 phosphoinositide phospholipase C-gamma-1
+ulator
 growth arrest-specific protein 3
 cell division protein FtsA
 protein kinase C, alpha
 G protein beta1/gamma2 subunit-interacting factor 1
+ubfamily 3 group C member 4
 polycystic kidney disease 2-like 1
 insulin-like growth factor binding protein 2, 36kDa
 polycystic kidney disease 2-like 2
+e 2 (prostaglandin G/H synthase and cyclooxygenase)
+annel, P/Q type, alpha 1A
 FR-alpha
 tumor necrosis factor receptor type 1
 propanoyl-CoA C-acyltransferase
@@ -289,6 +309,7 @@ acute myeloid leukemia 3 protein
 water channel protein for red blood cells and kidney proximal tubule
 (v-erb-b) oncogene homolog
 ubiquitin C
+oxypeptidase 1
 RAC-PK-alpha
 breast cancer associated 1
 ganglioside differentiation associated protein 1
@@ -318,18 +339,22 @@ macrophage-expressed gene 1 protein-like
 ER-alpha
 latency-associated peptide
 zinc finger E-box binding homeobox 1
+eta
 proto-oncogene protein c-fos
 apolipoprotein J
 amyloidogenic glycoprotein
 serine protease
 ovarian tumor suppressor candidate 2
+oma/glioblastoma derived oncogene homolog
 prostaglandin-endoperoxide synthase 1 (prostaglandin G/H synthase and cyclooxygenase)
 SPP1/CALPHA1 fusion
 B219
 brain-derived neurotrophic factor
 FADD-homologous ICE/CED-3-like protease
+receptor alpha E1-N2-E2-1-2
 valosin containing protein
 ras-like protein TC25
+usceptibility protein
 growth arrest-specific 3
 carcinoma-associated mucin
 integrin VLA-4 beta subunit
@@ -357,30 +382,31 @@ paired helical filament-tau
 T-cell receptor, alpha (V,D,J,C)
 retinoid X receptor, alpha
 cadherin 1, E-cadherin (epithelial)
+ing subunit
 neutral endopeptidase 24.11
 CI-MPR
 steroid-5-alpha-reductase, alpha polypeptide 2 (3-oxo-5 alpha-steroid delta 4-dehydrogenase alpha 2)
 p38 MAP kinase alpha
 Msn2p
 steroid receptor coactivator protein 3
-early growth response protein 2
 seven-transmembrane-segment receptor, spleen
+early growth response protein 2
 slow nerve growth factor receptor
 early growth response protein 1
 growth regulation by estrogen in breast cancer 1
 integrin beta-1
+similar to COUP-TF1 nuclear orphan receptor
+glutathione S-aryltransferase
 tyrosine kinase pp60c-src
 synuclein, alpha (non A4 component of amyloid precursor)
-glutathione S-aryltransferase
-similar to COUP-TF1 nuclear orphan receptor
 protein kinase C and casein kinase substrate in neurons 3
 protein kinase C and casein kinase substrate in neurons 2
 protein kinase C and casein kinase substrate in neurons 1
-transformation-related protein 53
 serine (or cysteine) peptidase inhibitor, clade A, member 3C
+transformation-related protein 53
+transforming protein p21
 Hypocretin (orexin) neuropeptide
 p14_CDK inhibitor
-transforming protein p21
 transmembrane receptor Notch1
 hsp70 RY
 DNA mismatch repair protein Msh2-like
@@ -393,6 +419,8 @@ thymic stromal lymphopoietin
 fetuin-A
 V-erbA-related protein 3
 rogen receptor alpha delta 4 +49 isoform
+654 isoform
+ated antigen 4
 epsilon COP
 complement component (3b/4b) receptor 1 (Knops blood group)
 mutL homolog 1, colon cancer, nonpolyposis type 2 (E. coli)
@@ -415,6 +443,7 @@ HDM2 transcript variant MYO-25
 HDM2 transcript variant MYO-26
 retinoic acid receptor RXR-alpha
 acute-phase response factor
+hatase 1, regulatory subunit 53
 chromosome D1 open reading frame, human C11orf82
 caspase 14, apoptosis-related cysteine peptidase
 heterogeneous nuclear ribonucleoprotein methyltransferase 1-like 2
@@ -448,6 +477,7 @@ breast cancer type 1 susceptibility protein homolog
 sarcoplasmic/endoplasmic reticulum calcium ATPase 3-like
 caveolin-1
 inase B, 92kDa gelatinase, 92kDa type IV collagenase)
+ncer-binding protein AP1
 insulin-like growth factor type 2
 caspase-3
 MHC HLA-B cell surface glycoprotein
@@ -471,6 +501,7 @@ Kirsten rat sarcoma-2 viral (v-Ki-ras2) oncogene homolog
 Orf2
 p55
 hypocretin receptor type 1
+iral oncogene homolog
 actor 1, hepatic
 putative transposase
 HNF1 homeobox A
@@ -488,6 +519,7 @@ rter
 protein DJ-1-like
 Srs2p
 cNOS
+ogen receptor 1
 mitogen-activated protein kinase 2
 mitogen-activated protein kinase 1
 obesity factor
@@ -497,6 +529,7 @@ centromere protein S-like
 eceptor alpha delta 4*,5,6,7,8*/901 isoform
 nuclear receptor subfamily 2, group F, member 2
 nuclear receptor subfamily 2, group F, member 1
+tor alpha delta 3*,4,5,6,7*/819-2 isoform
 proto-oncogene c-Myc
 matrix metalloprotease 1
 ribosomal protein L1
@@ -510,6 +543,7 @@ BRCA1/BRCA2-containing complex, subunit 1
 double minute 2, human homolog of; p53-binding protein
 lymphocyte derived neutrophil activating peptide
 peripheral myelin protein 22
+rowth factor receptor
 caspase-8
 zinc finger protein Krox-24
 deleted in lung and esophageal cancer protein 1-like
@@ -532,7 +566,9 @@ cyclooxygenase-2
 homocysteine-inducible, endoplasmic reticulum stress-inducible, ubiquitin-like domain member 1
 lar tumor antigen p53
 transcription factor E2F1
+Cl- dependent serotonin transporter
 Sicca syndrome antigen A (autoantigen Ro; calreticulin)
+nel conductance-controlling ATPase
 PEBP2-alpha A
 TGF-beta activated kinase 1/MAP3K7 binding protein 2
 cyclooxygenase-1
@@ -579,11 +615,13 @@ hyaluronate receptor
 growth regulation by estrogen in breast cancer-like
 estrogen receptor 1 (alpha)
 ligand and transmembrane spliced cytotoxic T lymphocyte associated antigen 4
+en receptor
 ERGIC and golgi 3
 glycyl-tRNA synthetase
 apoptosis inhibitor 5
 metastasis associated in colon cancer 1
 apolipoprotein E-like
+r alpha delta 4*,5,6,7,8*/901 isoform
 cytotoxic T-lymphocyte antigen 4
 factor-alpha
 apoptosis-enhancing nuclease-like
@@ -599,6 +637,7 @@ ein
 Krox-24 nuclear protein
 breast cancer metastasis suppressor 1
 SREBP cleavage activity 1
+hormone receptor activator molecule 1
 major histocompatibility complex, class II, DR beta 1
 MACH-alpha-1/2/3 protein
 alpha 1 connexin
@@ -619,6 +658,7 @@ Rsp5p
 DNA binding factor KBF1
 nuclear receptor coactivator 3
 apoptosis regulator Bcl-2
+CED-3/ICH-1 prodomain homologous E10-like regulator
 CG4717-PA
 CXXC-type zinc finger protein 9
 amyloid beta (A4) precursor protein
@@ -640,8 +680,10 @@ apoptosis regulator Bcl-X
 RBAP-1
 NF-E2-related factor 2
 putative transcription regulator transcription regulator protein
+e-segment receptor, spleen
 ATP-dependent DNA helicase II 70 kDa subunit
 ption regulator protein
+lutathione S-alkyltransferase
 bcl-2-like protein 10-like
 ataxin-3
 NAD-dependent protein deacetylase sirtuin-1
@@ -673,6 +715,7 @@ mitochondrial matrix protein P1
 cachectin
 pro-interleukin-1-beta
 NACHT, LRR and PYD containing protein 3
+brosis transmembrane conductance regulator
 adiponectin
 protein-glutamine-gamma-glutamyltransferase
 jun proto-oncogene
@@ -718,6 +761,7 @@ ber 1
 p53 and DNA-damage regulated 1
 MHC class II DQ beta chain
 orofacial cleft 1 candidate 1
+PK 2
 secreted phosphoprotein 1
 chemokine (C-C motif) ligand 2
 factor receptor
@@ -732,6 +776,7 @@ protein OS-9-like
 suppressor APC domain-containing protein 1-like
 nuclear factor of activated T-cells, cytoplasmic 1-like
 collagenase type IVB
+gen
 secreted phosphoprotein 1 (osteopontin, bone sialoprotein I, early T-lymphocyte activation 1)
 C-C motif chemokine 2
 junctional protein associated with coronary artery disease-like
@@ -755,18 +800,18 @@ PRAD1 oncogene
 interleukin 18 (interferon-gamma-inducing factor)
 RNA helicase-DEAD box protein 116
 cadherin-1
-paraoxonase 1
 hypocretin receptor 1
+paraoxonase 1
 serine (or cysteine) proteinase inhibitor, clade E (nexin, plasminogen activator inhibitor type 1), member 1
-cystatin 3
 notch 1
+cystatin 3
 hereditary hemochromatosis protein
 HHG-1
 NFATC2-interacting protein-like
-alpha
 ubiquitin E3 ligase ICP0
-cystatin C
+alpha
 tumor associated epithelial mucin
+cystatin C
 v-Ki-ras2 Kirsten rat sarcoma 2 viral oncogene homolog
 hepatocyte nuclear factor 3, beta
 al transducer and activator of transcription 3
@@ -798,6 +843,7 @@ angiostatin
 mucin 1, cell surface associated
 homocysteine-responsive endoplasmic reticulum-resident ubiquitin-like domain member 2 protein-like
 sodium channel protein, brain I alpha subunit
+actor
 t-related transcription factor 2
 caspase-14-like
 DNA (cytosine-5)-methyltransferase 1
@@ -822,6 +868,7 @@ peroxisome proliferator activated receptor gamma 4
 cadherin 1, type 1, E-cadherin (epithelial)
 apoptosis inhibitor 5-like
 dCAF-1-p180
+ory subunit alpha
 wth response 1
 apo B-100
 DNA polymerase delta auxiliary protein
@@ -846,6 +893,7 @@ PLC-gamma-1
 CG4280-PA
 CG4280-PB
 phenylpyruvate tautomerase
+ta 4*,5,6,7*/654 isoform
 coatomer protein subunit beta 1
 p140-TrkA
 RAD51 homolog A
@@ -862,6 +910,8 @@ p15-INK4b
 membrane metallo-endopeptidase
 estrogen receptor
 gap junction alpha-1 protein
+kine synthesis inhibitory factor
+d exchange and recombination protein with protease and nuclease activity
 CD86 antigen (CD28 antigen ligand 2, B7-2 antigen)
 clock homolog (mouse)
 tumor supressor p53
@@ -898,6 +948,7 @@ HNF-4-alpha
 chemokine (C-X-C motif) ligand 8
 nuclear factor of kappa light polypeptide gene enhancer in B-cells 1
 specificity protein 3
+ility protein 1
 specificity protein 1
 preexisting nuclear factor of activated T-cells 2
 p53 in pYVa127/90, part of insertion element,Phage Tail protein (partial)
@@ -922,6 +973,7 @@ cyclin-L2-like
 syndecan 1
 brain calcium channel 1
 deleted in bladder cancer protein 1-like
+nase erbB-1
 p53 apoptosis effector related to PMP-22-like
 TGF-beta-activated kinase 1 and MAP3K7-binding protein 2
 nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 1
@@ -957,6 +1009,8 @@ trkA proto-oncogene receptor
 Aplysia ras-related homolog 12
 gp160; envelope glycoprotein
 serine (or cysteine) proteinase inhibitor, clade A, member 1
+eukin 1 beta
+eta-2
 liver X receptor alpha
 RIG-I-like receptor 2
 high affinity nerve growth factor receptor
@@ -966,7 +1020,9 @@ presenilin 1
 9330170P05Rik
 estrogen receptor beta 4
 contains a RING finger; disrupts ND10; proteasome-dependent degradation of several cellular proteins
+g protein 5
 bility protein 1
+,6,7*/654 isoform
 HBGF-1
 Mdm2, p53 E3 ubiquitin protein ligase homolog (mouse)
 insulin-like growth factor IB
@@ -1009,6 +1065,7 @@ hypocretin (orexin) neuropeptide precursor
 ABC transporter
 CD230 antigen
 ransmembrane conductance regulator (ATP-binding cassette sub-family C, member 7)
+CARD containing molecule enhancing NF-kB
 insulinase
 nuclear factor of activated T-cells, cytoplasmic, calcineurin-dependent 2 interacting protein
 parA2
@@ -1086,6 +1143,7 @@ ox1r
 p160
 alzheimer disease amyloid A4 protein homolog
 Orf5; integron
+-repressed prostate message 2
 activated RNA polymerase II transcription cofactor 4
 truncated breast and ovarian cancer susceptibility protein 2
 Fas (TNF receptor superfamily member)
@@ -1096,6 +1154,7 @@ insulin-like growth factor 2 receptor
 Huntington disease gene homolog
 mitogen-activated protein kinase 14
 RepXfA
+de-binding oligomerization domain, leucine rich repeat and pyrin domain containing 3
 sarcoplasmic/endoplasmic reticulum calcium ATPase 1-like
 cell cycle negative regulator beta
 solute carrier family 6 member 4
@@ -1131,6 +1190,7 @@ SH2/SH3 adapter GRB2
 dopamine D2 receptor
 p38 alpha
 MORT1-associated ced-3 homolog
+lator
 h12
 Parkinson disease 7 domain containing 1
 orm
@@ -1156,6 +1216,7 @@ tumor protein p53 inducible nuclear protein 2
 growth factor beta-1
 E3 ubiquitin-protein ligase Mdm2
 n receptor beta
+pha delta 4 +49 isoform
 catecholamine receptor
 cellular tumor antigen p53
 ribonuclease L (2',5'-oligoisoadenylate synthetase-dependent) inhibitor
@@ -1166,6 +1227,7 @@ heparin-binding growth factor 4
 C-reactive protein, pentraxin-related
 aldehyde dehydrogenase 1 family, member L2
 aldehyde dehydrogenase 1 family, member L1
+terleukin-1-beta
 5'-deoxyribose-5-phosphate lyase Ku70
 heparin-binding growth factor 2
 heparin-binding growth factor 1
@@ -1176,6 +1238,7 @@ tumor protein p53-inducible protein 13-like
 transcription factor HNF-4
 activated RNA polymerase II transcriptional coactivator p15
 toll4
+lta 3*,4,5,6,7*,8*/941 isoform
 interferon-induced helicase C domain-containing protein 1
 proto-oncogene c-Src
 apoptosis-linked gene 2-interacting protein X
@@ -1211,6 +1274,7 @@ adrenergic, beta-2-, receptor, surface
 nuclear receptor subfamily 3 group C member 4
 APC membrane recruitment protein 3-like
 cellular c-Ki-ras2 proto-oncogene
+alpha delta 4*,5,6,7*/654 isoform
 ATP-binding cassette transporter sub-family C member 7
 ATP-binding cassette, subfamily c, member 7
 mitogen activated protein kinase 14
@@ -1276,6 +1340,8 @@ preA4
 tumor necrosis factor receptor superfamily member 1A
 polycystin-2-like
 protein kinase C, epsilon
+A member 1
+component of amyloid precursor)
 SAC1 suppressor of actin mutations 1-like (yeast)
 prostaglandin H2 synthase 1
 prostaglandin H2 synthase 2
@@ -1319,8 +1385,10 @@ vertebrae development homolog (pig)
 dominant spotting
 dipeptidyl carboxypeptidase I
 PON 1
+4*,5,6,7,8*/901 isoform
 neurofibrillary tangle protein
 50S ribosomal protein L4, bacterial/organelle
+acting factor 1
 lysophospholipase L2
 TGase H
 Rev3p
@@ -1330,6 +1398,7 @@ potassium channel inwardly rectifing subfamily J member 11
 putative TraG family conjugative protein
 TGase C
 dipeptidyl carboxypeptidase 1
+pha delta 3*,4,5,6,7*,8*/941 isoform
 COUP transcription factor II
 Bernardinelli-Seip congenital lipodystrophy type 2 protein
 transcriptional regulator interacting with the PHD-bromodomain 1
@@ -1343,6 +1412,7 @@ heparan sulfate proteoglycan
 spastic paraplegia 11 protein
 acid stable subunit of the 140 K IGF complex
 T cell receptor alpha locus
+1-N2-E2-1-2
 voltage-gated L-type calcium channel Cav1.2 alpha 1 subunit, splice variant 10*
 44 kDa bone phosphoprotein
 nitric oxide-inducible gene protein-like
@@ -1375,6 +1445,7 @@ hematopoietically-expressed homeobox protein HHEX
 multi drug resistance efflux transport ATP-binding cassette sub-family G (WHITE) member 2
 ARNT-interacting protein
 purinergic receptor P2X, ligand-gated ion channel, 7
+ctin, C1Q and collagen domain containing
 sodium/potassium-transporting ATPase subunit alpha-2
 1-phosphatidylinositol-4,5-bisphosphate phosphodiesterase gamma-1
 hARK1
@@ -1382,13 +1453,17 @@ v-src sarcoma (Schmidt-Ruppin A-2) viral oncogene homolog (avian)
 matrix metalloproteinase 9
 leptin (murine obesity homolog)
 LPS-induced TNF-alpha factor
+rstatin
 cytotoxic T-lymphocyte-associated antigen 4
+loid beta A4 protein
 huntingtin
 thioredoxin domain-containing protein 12-like
 multidrug resistance protein 1
 deleted in bladder cancer 1
 phosphatidylinositol 3,4,5-trisphosphate 3-phosphatase and dual-specificity protein phosphatase PTEN
 transportin-SR
+aurora/IPL1-related kinase 2
+s-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)
 serologically defined colon cancer antigen 3
 inward rectifier K(+) channel Kir6.2
 growth hormone-releasing peptide
@@ -1400,13 +1475,16 @@ prealbumin, amyloidosis type I
 aurora/IPL1-related kinase 1
 paraplegin
 erentiation factor
+in G/H synthase 2
 recombination protein A
 strogen receptor alpha delta 4*,5,6,7*/654 isoform
 linker for activation of T-cells family member 2-like
 von Hippel-Lindau disease tumor suppressor-like
+se nexin-II
 nase
 CD274 antigen
 zinc finger E-box-binding homeobox 1
+tiation factor TFIID TBP subunit
 sodium channel, voltage-gated, type I, alpha subunit
 Sgs1p
 S-phase cyclin A-associated protein in the ER
@@ -1437,14 +1515,17 @@ ERK-2
 KIAA1462 ortholog
 gap junction membrane channel protein alpha 1
 tumor necrosis factor-induced gene 1
+tor beta-1
 proto-oncogene c-Kit
 proline-rich homeodomain-containing transcription factor
+IGF-I receptor
 sodium channel protein type 1 subunit alpha
 ctor beta-1
 osteopontin/immunoglobulin alpha 1 heavy chain constant region fusion protein
 migration-stimulating factor
 IBP-2
 IBP-3
+ular amyloid peptide
 monocyte chemoattractant protein-1
 forkhead box A2
 NOS, type II
@@ -1452,8 +1533,10 @@ cystic kidney disease protein 1-like 3-like
 apo-1 antigen
 signal transducer and transcription activator 6
 alpha-synuclein
+llo-endopeptidase (neutral endopeptidase, enkephalinase)
 HD protein homolog
 ulator beta
+reast and ovarian cancer sususceptibility protein 1
 minopontin
 rolling-circle replication protein
 type II 5-alpha reductase
@@ -1462,8 +1545,8 @@ myc-related translation/localization regulatory factor
 GP90 lymphocyte homing/adhesion receptor
 smith-Magenis syndrome chromosomal region candidate gene 8 protein-like
 tumor necrosis factor receptor superfamily, member 1B
-cell growth inhibiting protein 40
 ansforming growth factor, beta 1
+cell growth inhibiting protein 40
 tumor necrosis factor receptor superfamily, member 1A
 sterol carrier protein 2
 hepatocyte nuclear factor 4, alpha
@@ -1491,19 +1574,24 @@ ox1-R
 colchicin sensitivity
 Caf1-PA
 PWP1-interacting protein 4
+CD4 receptor
 Caf1-PB
 beta-1 adrenergic receptor
-CD4 receptor
+n 1
+te sub-family C, member 7)
+a-amyloid peptide
 leukotriene C(4) transporter
 T-cell-specific surface glycoprotein CD28
 protein kinase C epsilon type
 spatacsin
 suppressor APC domain-containing protein 2-like
+CARD-containing apoptotic signaling protein
 androgen nuclear receptor variant 2
-SIR2-like protein 1
+serine/threonine-protein kinase 12
 alpha-1-antitrypsin
-RAD51 homolog (RecA homolog, E. coli)
+SIR2-like protein 1
 apoB-48
+RAD51 homolog (RecA homolog, E. coli)
 extracellular matrix receptor III
 lymphoid-specific protein tyrosine phosphatase
 (prostaglandin G/H synthase and cyclooxygenase)
@@ -1519,21 +1607,24 @@ N-myc downstream regulated 1
 v-rel reticuloendotheliosis viral oncogene homolog A (avian)
 PHF-tau
 multiple tumor suppressor 2
+sex steroid-binding protein
 multiple tumor suppressor 1
 IkappaBalpha
 sperm-associated protein
 T-lymphocyte activation antigen CD86
+ba-alpha-2-glycoprotein
 transforming growth factor-beta 1
-calcium channel, L type, alpha-1 polypeptide, isoform 1, cardiac muscle
-heat shock 70kDa protein 8
 subfamily 3, group C, member 1 (glucocorticoid receptor)
+heat shock 70kDa protein 8
+calcium channel, L type, alpha-1 polypeptide, isoform 1, cardiac muscle
 CD152 isoform
 heat shock 70kDa protein 4
 integrin alpha 5 (fibronectin receptor alpha)
-MDM2 variant FB30
 phospholipase C, gamma 1
+MDM2 variant FB30
 estrogen receptor beta
 interleukin-1 beta
+eptidase A) 1
 MDM2 variant FB28
 herstatin
 p53-induced protein with a death domain-like
@@ -1543,9 +1634,12 @@ stem
 transglutaminase 2 (C polypeptide, protein-glutamine-gamma-glutamyltransferase)
 Harvey rat sarcoma virus oncogene 1
 permeability factor
+soluble IGF1R variant 2
 rho cDNA clone 12
+soluble IGF1R variant 1
 BCL2-like 1
 phosphoinositidase C
+mber 4
 sodium-dependent serotonin transporter
 syndecan proteoglycan 1
 extracellular signal-regulated kinase 2
@@ -1559,9 +1653,11 @@ similar to Pseudomonas aeruginosa strain C ORF C55
 cAMP-regulated guanine nucleotide exchange factor I
 similar to Pseudomonas aeruginosa strain C ORF C51
 BCL2-like 10 (apoptosis facilitator)
+cCARMEN
 homing function and Indian blood group system
 zinc transporter 8
 PYRIN-containing APAF1-like protein 1
+e 1
 30 kDa adipocyte complement-related protein
 FBJ murine osteosarcoma viral oncogene homolog
 actin-ADP-ribosyltransferase toxin SpvB
@@ -1582,10 +1678,13 @@ G0/G1 switch regulatory protein 7
 MHC class II antigen
 beta-thromboglobulin-like protein
 serine/threonine-protein kinase 6
+serine/threonine-protein kinase 5
+e amyloid protein
 sodium pump subunit alpha-2
 beta
 P-glycoprotein 1
 alpha-1-antitrypsin null
+O-32
 Smith-Magenis syndrome chromosome region, candidate 8
 cell cycle regulatory protein p95
 tumor necrosis factor, alpha-induced protein 6
@@ -1595,11 +1694,13 @@ Dominant white spotting
 ku70-binding protein 1
 BCL-1 oncogene
 fibroblast growth factor 2 (basic)
+sphatidylinositol 3,4,5-trisphosphate 3-phosphatase and dual-specificity protein phosphatase PTEN
 caspase 16, apoptosis-related cysteine peptidase (putative)
 neurofilament subunit NF-L
 telomerase-associated protein 2
 Na+/Cl- dependent serotonin transporter
 NAD-dependent deacetylase sirtuin-1
+lin-dependent kinase 4 inhibitor A
 estrogen receptor alpha delta 4*,5,6,7,8*/901 isoform
 1-phosphatidylinositol-4,5-bisphosphate phosphodiesterase gamma 1
 apopain
@@ -1627,6 +1728,7 @@ TrkA neurotrophin receptor
 proto-oncogene c-ErbB-2
 protease inhibitor 1 (anti-elastase), alpha-1-antitrypsin
 transcription factor 14
+insulin-like growth factor 1 receptor
 orexin receptor type 1
 ATP-binding cassette sub-family E member 1
 p50 subunit of NF-kappaB
@@ -1636,8 +1738,11 @@ molybdate uptake
 enetetrahydrofolate reductase (NAD(P)H)
 pleiomorphic adenoma gene 1
 p15_INK4B
+landin-endoperoxide synthase 2 (prostaglandin G/H synthase and cyclooxygenase)
 Dickie's small eye
+9 isoform
 huntington disease protein
+se 1, regulatory subunit 53
 78 kDa glucose-regulated protein
 serum paraoxonase/arylesterase 1
 protein phosphatase 1, regulatory subunit 13B
@@ -1675,13 +1780,17 @@ gene trap ROSA 26, Philippe Soriano
 cathepsin B1
 transcription factor 3B
 NACHT domain-, leucine-rich repeat-, and PYD-containing protein 3
+protein 1
 protein 4
 G/T mismatch-binding protein
 CD36-like
+factor ligand superfamily member 2
 ubiquitously-expressed nuclear receptor 1
 nuclear factor NF-kappa-B p65 subunit
+CARD-containing molecule enhancing NF-kappa-B
 alpha CGRP
 kallikrein-binding protein
+collagenase
 ubiquitin carboxyl-terminal hydrolase isozyme L1-like
 adipose specific collagen-like factor
 type V collagenase
@@ -1702,7 +1811,10 @@ liver carboxylesterase N
 plasmin light chain B
 phosphatidylinositol phospholipase C
 IFN-gamma
+a-A kinase
+erferon gamma
 steroid 5-alpha-reductase 2
+insulin-like growth factor I receptor
 serpin A3C
 V(D)J recombination-activating protein 2-like
 protein PML
@@ -1711,9 +1823,11 @@ endoplasmic reticulum lectin 1-like
 50S ribosomal protein L1
 MHC class I antigen GN00104
 50S ribosomal protein L2
+synthase 2, inducible, macrophage
 rosis factor ligand superfamily member 2
 GTMBP
 early T cell costimulatory molecule-1
+nel protein alpha 1
 GTPase HRas
 olymerase II transcriptional coactivator p15
 Machado-Joseph disease (spinocerebellar ataxia 3, olivopontocerebellar ataxia 3, autosomal dominant, ataxin 3)
@@ -1735,6 +1849,7 @@ small eye
 nuclear factor of activated T-cells, cytoplasmic 2
 Janus kinase 2 (a protein tyrosine kinase)
 ribonuclease, RNase A family, 3
+0-TrkA
 rschsprung disease)
 ataxin 3
 TATA box binding protein
@@ -1783,10 +1898,12 @@ focal adhesion kinase-related nonkinase
 crq-PB
 crq-PA
 Abeta-degrading protease
+a-inducible factor 1-alpha
 macrophage activation-associated marker protein P71/73
 Knops blood group antigen
 NPC1 (Niemann-Pick disease, type C1, gene)-like 1
 ansporter, serotonin), member 4
+tidylinositol-3,4,5-trisphosphate 3-phosphatase and dual-specificity protein phosphatase PTEN
 apo-E
 ine-protein kinase GSK3B
 transforming growth factor beta-1
@@ -1826,6 +1943,7 @@ receptor
 retinoblastoma-binding protein 3
 SCFR
 Core and e antigen
+G/H synthase 2
 complement-associated protein SP-40,40
 coagulation factor II (thrombin)
 fibroblast growth factor 1 (acidic)
@@ -1837,6 +1955,7 @@ X-ray repair complementing defective repair in Chinese hamster cells 6
 mitoxantrone resistance-associated protein
 DNA mismatch repair protein Mlh1
 peroxisome proliferator activated receptor gamma
+boxypeptidase 1
 stromal cell-derived factor 1 receptor
 beta-catenin
 very late activation protein 5, alpha subunit
@@ -1861,6 +1980,7 @@ leptin receptor
 Charcot-Marie-Tooth neuropathy 1B
 PGH synthase 2
 nuclear factor kappaB p50
+a 4 +49 isoform
 mucin 1, transmembrane
 ne thymoma viral oncogene homolog 1
 cystic fibrosis transmembrane conductance regulator (ATP-binding cassette sub-family C, member 7)
@@ -1875,12 +1995,15 @@ Charcot-Marie-Tooth neuropathy 2D
 hepatic nuclear factor 4, alpha
 DNA-binding protein APRF
 monophosphatidylinositol phosphodiesterase
+hepsin
 signal transducer and activator of transcription 3 (acute-phase response factor)
 programmed cell death 1
 PCO148993_ov
 ATPase, Ca++ transporting, ubiquitous
+gene transcript 1 protein
 krebs von den Lungen-6
 major prion protein
+receptor alpha delta 3*,4,5,6,7*/819-2 isoform
 class E basic helix-loop-helix protein 42
 prostaglandin-endoperoxide synthase 2 (prostaglandin G/H synthase and cyclooxygenase)
 fibronectin 1
@@ -1889,6 +2012,8 @@ sir2-like 1
 CD143 antigen
 proline transport protein, APC family
 Charcot-Marie-Tooth neuropathy 4A
+NF-kappaB
+testis-specific androgen-binding protein
 ndopeptidase 24.11
 potassium channel, inwardly rectifying subfamily J member 11
 protein kinase B-alpha
@@ -1921,6 +2046,8 @@ nucleoside-triphosphatase, cancer-related
 caspase 3, apoptosis-related cysteine peptidase
 transcriptional regulator of methionine biosynthesis (LysR family)
 dopamine receptor interacting protein 4
+caspase-recruiting domain-containing protein
+A (melanoma, p16, inhibits CDK4)
 apoB-100
 peroxisome proliferator-activated nuclear receptor gamma variant 1
 angiopoietin 2-like protein
@@ -1935,6 +2062,7 @@ S phase cyclin A-associated protein in the endoplasmic reticulum-like
 HNF-3B
 strogen receptor alpha 3*,4,5,6,7*/822 isoform
 adenomatosis polyposis coli 2
+eroxisome proliferator-activated nuclear receptor gamma variant 1
 neurofilament, light polypeptide 68kDa
 K-45
 interleukin-10
@@ -1955,11 +2083,14 @@ olog of vCARMEN
 cell growth-inhibiting protein 32
 apoptosis, caspase activation inhibitor
 mPD-1
+type 1 membrane protein; contains a signal peptide; possible membrane fusogen; binds cell surface heparan sulphate
 PHS II
 ataxin 3 variant h
 eticulum resident protein 44-like
+vascular amyloid peptide
 p15 CDK inhibitor
 polycystic kidney disease 1-like 3
+aurora-related kinase 2
 Na+/K+ ATPase, alpha-B polypeptide
 aurora-related kinase 1
 D(2) dopamine receptor
@@ -1970,6 +2101,7 @@ ATP-binding cassette, sub-family C (CFTR/MRP), member 1
 B-lymphocyte activation antigen B7-2
 cytotoxic T-lymphocyte-associated protein 4
 class E basic helix-loop-helix protein 78
+n, growth hormone secretagogue receptor ligand
 amyloid beta A4 protein
 related to A and C kinases
 C-reactive protein
@@ -1997,6 +2129,7 @@ thyroid autoantigen 70kDa (Ku antigen)
 glucocorticoid-regulated inflammatory cyclooxygenase
 FASLG receptor
 toll/interleukin-1 receptor-like protein 4
+49 isoform
 MAPK 14
 solute carrier family 25 (mitochondrial carrier; Graves disease autoantigen), member 16
 alpha-1-antiproteinase
@@ -2008,6 +2141,7 @@ protein kinase C and casein kinase substrate in neurons protein 2-like
 estrogen receptor alpha delta 4 +49 isoform
 parkinson protein 7
 gap junction 43 kDa heart protein
+ipeptidyl carboxypeptidase 1
 bifunctional apoptosis regulator
 macrophage migration inhibitory factor (glycosylation-inhibiting factor)
 nucleoside diphosphate kinase 6-like
@@ -2018,6 +2152,7 @@ PAS domain-containing protein 8
 lass II HLA-DR-beta cell surface glycoprotein
 IGF-binding protein 2
 IGF-binding protein 3
+rotein 78
 C HLA-B transmembrane glycoprotein
 ription factor 8 (represses interleukin 2 expression)
 insulin protease
@@ -2039,6 +2174,7 @@ TNF-RII
 PGHS-2
 histone-arginine N-methyltransferase PRMT1
 piebald trait protein
+, 92kDa gelatinase, 92kDa type IV collagenase)
 putative caspase-16-like
 rhodopsin
 hSIRT1
@@ -2075,11 +2211,13 @@ M6PR
 major histocompatibility complex, class I, B
 NOS type II
 folate binding protein 1
+cute lymphocytic leukemia antigen
 eptor alpha E1-E2-1-2
 protein kinase CK2
 seven transmembrane helix receptor
 enhancer-binding protein AP1
 aromatic esterase 1
+ike apoptotic protease 5
 CG10334-PA
 CG10334-PB
 protease nexin II
@@ -2094,6 +2232,7 @@ RER1 retention in endoplasmic reticulum 1 homolog (S. cerevisiae)
 putative transcriptional regulator, GntR, HTH, UbiC domains
 homocysteine-responsive endoplasmic reticulum-resident ubiquitin-like domain member 1 protein-like
 fusin
+se II
 Janus kinase 2
 triphosphoinositide phosphodiesterase
 angiotensin I converting enzyme peptidyl-dipeptidase A 1 transcript
@@ -2114,6 +2253,7 @@ neurofilament protein, light chain
 lipopolysaccharide response
 breast cancer metastasis-suppressor 1 homolog
 catenin (cadherin-associated protein), beta 1, 88kDa
+delta 4*,5,6,7*/654 isoform
 beta-1 adrenoreceptor
 cancer susceptibility candidate protein 1 homolog
 transitional endoplasmic reticulum ATPase-like
@@ -2130,6 +2270,7 @@ LEP-R
 estrogen nuclear receptor beta variant b
 growth hormone-dependent binding protein
 CD49 antigen-like family member E
+serine/threonine-protein kinase aurora-B
 serine/threonine-protein kinase aurora-A
 nuclear receptor subfamily 3, group C, member 1 (glucocorticoid receptor)
 Cdc28p
@@ -2140,16 +2281,20 @@ lipopolysaccharide-induced TNF-alpha factor
 IL-1 gamma
 calcium homeostasis endoplasmic reticulum protein
 trk
+neoplasia and medullary thyroid carcinoma 1, Hirschsprung disease)
 endothelial nitric oxide synthase
+testosterone-binding beta-globulin
 short heat shock protein 60 Hsp60s1
 GSK-3 beta
 mutant Apo B 100
+nuclear factor kappa B p105 subunit
 SEI-1
 gelatin-binding protein 28
 cancer-related nucleoside-triphosphatase-like
 8-oxoguanine DNA glycosylase
 CTL differentiation factor
 hCLAP
+biting protein 40
 iboctadekin
 apolipoprotein A-I
 hypoxia-inducible factor 1, alpha subunit (basic helix-loop-helix transcription factor)
@@ -2166,6 +2311,7 @@ prostate tumor-overexpressed gene 1 protein homolog
 PKC-A
 IPL1-related kinase
 immunodeficiency, polyendocrinopathy, enteropathy, X-linked
+B-cell lymphoma/leukemia 10
 prostaglandin G/H synthase 1
 prostaglandin G/H synthase 2
 phospholipase C-II
@@ -2174,15 +2320,20 @@ reducing agents and tunicamycin-responsive protein
 urinary stone protein
 paired box gene 6
 preproinsulin
+an cancer sususceptibility protein 1
 xin-II
 nitric oxide synthase, endothelial
+idase I
 chromatin associated factor-1 subunit
 estrogen receptor 2 (ER beta)
+tigen CD86
 methylenetetrahydrofolate reductase (NAD(P)H)
 CDK4-binding protein p34SEI1
 breast cancer type 1 susceptibility protein
 cell division cycle and apoptosis regulator protein 1-like
 Jun activation domain binding protein
+cellular homolog of vCARMEN
+id precursor)
 vitamin D nuclear receptor variant 1
 type II restriction endonuclease, putative
 EC-NOS
@@ -2198,11 +2349,13 @@ insulin-like growth factor 2 (somatomedin A)
 H2AX histone
 2-containing complex, subunit 1
 trk-A
+43 antigen
 nuclear factor NF-kappa-B p105 subunit
 hSIR2
 serpin A8
 seipin
 cyclin-L1-like
+loid peptide
 Tel1p
 peanut-reactive urinary mucin
 NFE2-related factor 2
@@ -2223,6 +2376,7 @@ G/H synthase and cyclooxygenase)
 LTC4 transporter
 tor
 member of PAS protein 1
+e 1, regulatory subunit 53
 gamma interferon
 alzheimer disease amyloid protein
 sterol carrier protein X
@@ -2233,6 +2387,7 @@ Aurora-A kinase
 tropomyosin-related kinase A
 CBP-interacting protein
 immunoglobulin heavy chain-binding protein
+d beta (A4) precursor protein
 le nitric oxide synthase
 osteopontin-like protein
 protein kinase C and casein kinase substrate in neurons protein 3-like
@@ -2243,6 +2398,7 @@ beta-amyloid peptide
 ribonuclease 4 inhibitor
 sirtuin type 1
 tripartite motif protein TRIM19
+ansporter
 ATP-binding cassette, sub-family E (OABP), member 1
 jun oncogene
 fibrillin 15
@@ -2256,6 +2412,7 @@ tyrosine-protein phosphatase non-receptor type 22
 TNF-R1
 MHC DQ beta
 TNF-R2
+aurora kinase B
 trinucleotide repeat containing 6A
 aurora kinase A
 dynamin 2
@@ -2264,6 +2421,7 @@ tripartite motif-containing protein 19
 protein phosphatase 1, regulatory subunit 50
 protein phosphatase 1, regulatory subunit 53
 protein phosphatase 1, regulatory subunit 52
+omain-containing protein 8
 hemochromatosis
 putative integral membrane protein
 CADM-140 autoantigen
@@ -2289,7 +2447,9 @@ zinc transporter ZnT-8
 chemokine (C-X-C motif) receptor 4
 TNFR-I
 limb bud and heart development homolog (mouse)
+ase
 gap junction protein, alpha 1
+, alpha subunit (basic helix-loop-helix transcription factor)
 embryonic ectoderm development
 calcium channel, voltage-dependent, P/Q type, alpha 1A subunit
 AFG3-like protein 2-like
@@ -2325,12 +2485,15 @@ lfate proteoglycan 8
 Colton blood group
 neural cell adhesion molecule 1
 mor necrosis factor ligand superfamily member 2
+protein phosphatase 1, regulatory subunit 48
 integrin, alpha 5 (fibronectin receptor, alpha polypeptide)
 phosphoinositide phospholipase C
 protein phosphatase 1, regulatory subunit 47
+factor of activated T-cells, cytoplasmic, calcineurin-dependent 2
 protein kinase A catalytic subunit
 MPR 300
 RBBP-3
+r variant 2
 interleukin-18
 HNF4alpha10/11/12
 human leucocyte antigen DRB1
@@ -2338,6 +2501,7 @@ MAP kinase isoform p42
 1-phosphatidylinositol 4,5-bisphosphate phosphodiesterase gamma-1
 MMAC1 phosphatase and tensin homolog deleted on chromosome 10
 B-cell IgG differentiation factor
+in 78
 cyclin
 transcription factor AP-1
 FADD-like ICE
@@ -2347,6 +2511,7 @@ mesoderm development candidate 2
 heat shock 70kd protein 10
 ras-related C3 botulinum toxin substrate 1 (rho family, small GTP binding protein Rac1)
 TGase-2
+bronectin receptor, beta polypeptide, antigen CD29 includes MDF2, MSK12)
 TGase-H
 lung surfactant convertase
 Pr55(Gag)
@@ -2359,6 +2524,7 @@ endothelial NOS
 alpha-1 antiproteinase, antitrypsin
 y 3 group A member 1
 stic leukemia viral (v-erb-b) oncogene homolog
+owth factor, beta 1
 PTK2 protein tyrosine kinase 2
 folate receptor alpha
 p53 and DNA damage-regulated protein 1-like
@@ -2366,6 +2532,7 @@ Niemann-Pick disease, type C2
 sodium channel, voltage-gated, type I, alpha polypeptide
 hypocretin
 soluble TNFR1B variant 1
+oxycathepsin
 serum aryldialkylphosphatase 1
 serine/threonine kinase 6
 neurofilament, light polypeptide
@@ -2390,10 +2557,12 @@ PRB-binding protein E2F-1
 MOG Ig-AluB
 synovial sarcoma translocation gene on chromosome 18-like 1
 FOXP3delta7
+otein 4
 BCL2-associated X protein omega
 neural cell adhesion molecule L1-like
 TAB-2
 polycystic kidney disease 2-like 2 protein-like
+otein 8
 tumor necrosis factor receptor superfamily member 6
 cold autoinflammatory syndrome 1 protein
 otein A
@@ -2402,6 +2571,8 @@ presenilin-2-like
 caspase-2-like
 serologically defined colon cancer antigen 8-like
 tripartite motif containing 5 transcript variant kappa
+bulin-like protein
+yl carboxypeptidase 1
 forkhead protein FKHR2
 epithelial cadherin
 NACHT, LRR and PYD domains-containing protein 3
