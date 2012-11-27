@@ -16,9 +16,9 @@ pipeline:
     options: |
       - inherit: helloqa.keyterm.simple
       - inherit: hellobioqa.team11.keyterm.ppravindKeyterm	
-      - inherit: hellobioqa.team11.keyterm.ppravindNounPhraseExtractor
+      - inherit: hellobioqa.team11.keyterm.ppravindNounPhraseExtractor      
       - inherit: hellobioqa.team11.zhiqilKeytermExtractor
-      - inherit: hellobioqa.team11.kkanal_keyterm_extractor      
+      - inherit: hellobioqa.team11.kkanal_keyterm_extractor   
 
   - inherit: jdbc.sqlite.cse.phase 
     name: retrieval-strategist
@@ -29,6 +29,7 @@ pipeline:
     name: passage-extractor
     options: |
       - inherit: hellobioqa.passage.simple
+      - inherit: hellobioqa.team11.passage.lucene-passage-extractor
       
   - inherit: helloqa.eval.keyterm-aggregator-consumer
 

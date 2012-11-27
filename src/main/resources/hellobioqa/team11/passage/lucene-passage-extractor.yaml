@@ -1,0 +1,6 @@
+class: edu.cmu.lti.oaqa.openqa.test.team11.passage.LucenePassageExtractor
+server: http://peace.isri.cs.cmu.edu:9080/solr/genomics-simple/
+port: 9080
+
+persistence-provider: |
+ inherit: ecd.default-log-persistence-provider
