@@ -28,6 +28,16 @@ public class zhiqilKeytermExtractor extends AbstractKeytermExtractor {
     ArrayList<Keyterm> keyTermList = new ArrayList<Keyterm>();   
 
     try {
+      /*
+       * ObjectInputStream ois = new ObjectInputStream(url.openStream());
+         chunker = (Chunker) ois.readObject();
+         Streams.closeQuietly(ois);
+
+      File geneTag = new File(getContext()
+              .getResourceFilePath("file:genetag/ne-en-bio-genetag.HmmChunker"));
+    
+      Chunker chunker = (Chunker) AbstractExternalizable.readObject(geneTag);
+      */
       Chunker chunker = (Chunker) AbstractExternalizable.readObject(geneTag); 
           
       Chunking chunking = chunker.chunk(question);
@@ -36,6 +46,7 @@ public class zhiqilKeytermExtractor extends AbstractKeytermExtractor {
         Keyterm k = new Keyterm(question.substring(chunk.start(), chunk.end()));    
         keyTermList.add(k);          
       }
+         
       
       LexicalizedParser lp = LexicalizedParser.loadModel("edu/stanford/nlp/models/lexparser/englishPCFG.ser.gz"); 
      

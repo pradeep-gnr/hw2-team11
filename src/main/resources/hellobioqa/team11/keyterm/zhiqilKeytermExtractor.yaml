@@ -1,0 +1,4 @@
+class: edu.cmu.lti.oaqa.openqa.test.team11.keyterm.zhiqilKeytermExtractor
+
+persistence-provider: |
+  inherit: ecd.default-log-persistence-provider
