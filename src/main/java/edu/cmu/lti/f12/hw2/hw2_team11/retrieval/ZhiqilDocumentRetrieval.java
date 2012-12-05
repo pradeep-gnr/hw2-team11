@@ -107,7 +107,7 @@ public class ZhiqilDocumentRetrieval extends AbstractRetrievalStrategist {
       // first run the whole query string
       // Needs to be tuned
       
-      SolrDocumentList docs = wrapper.runQuery(query, 1000);
+      SolrDocumentList docs = wrapper.runQuery(query, 500);
     
       for (SolrDocument doc : docs) {
         RetrievalResult r = new RetrievalResult((String) doc.getFieldValue("id"),
@@ -122,7 +122,7 @@ public class ZhiqilDocumentRetrieval extends AbstractRetrievalStrategist {
       for (String keyterm : keytermlist) {
         System.out.println(keyterm);
         // Needs to be tuned
-        docs = wrapper.runQuery(keyterm, 200);
+        docs = wrapper.runQuery(keyterm, 50);
         
         for (SolrDocument doc : docs) {
           // get each document's id, score and query

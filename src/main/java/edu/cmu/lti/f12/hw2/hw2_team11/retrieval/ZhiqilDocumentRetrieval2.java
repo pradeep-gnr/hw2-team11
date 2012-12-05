@@ -110,7 +110,7 @@ public class ZhiqilDocumentRetrieval2 extends AbstractRetrievalStrategist {
       for (String keyterm : keytermlist) {
         System.out.println(keyterm);
         // Needs to be tuned
-        SolrDocumentList docs = wrapper.runQuery(keyterm, 100);
+        SolrDocumentList docs = wrapper.runQuery(keyterm, 300);
         
         for (SolrDocument doc : docs) {
           // get each document's id, score and query
