@@ -13,7 +13,10 @@ collection-reader:
 pipeline:
   - inherit: jdbc.sqlite.cse.phase  
     name: keyterm-extractor
-    options: |      
+    options: |
+      - inherit: helloqa.keyterm.simple
+      - inherit: hellobioqa.team11.keyterm.ppravindKeyterm	
+      - inherit: hellobioqa.team11.keyterm.ppravindNounPhraseExtractor      
       - inherit: hellobioqa.team11.keyterm.zhiqilKeytermExtractor
       - inherit: hellobioqa.team11.keyterm.zhiqilKeytermExtractor2
   
@@ -21,9 +24,10 @@ pipeline:
   - inherit: jdbc.sqlite.cse.phase 
     name: retrieval-strategist
     options: |
-
+      - inherit: hellobioqa.retrieval.simple-solr-strategist
       - inherit: hellobioqa.team11.retrieval.simple-solr-strategist
-  
+      - inherit: hellobioqa.team11.retrieval.zhiqil-retrieval
+      - inherit: hellobioqa.team11.retrieval.zhiqil-retrieval2   
           
   - inherit: jdbc.sqlite.cse.phase  
     name: passage-extractor
