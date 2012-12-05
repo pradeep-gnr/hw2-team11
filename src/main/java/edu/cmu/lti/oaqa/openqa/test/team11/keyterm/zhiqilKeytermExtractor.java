@@ -1,7 +1,9 @@
 package edu.cmu.lti.oaqa.openqa.test.team11.keyterm;
 
-import java.io.File;
+
 import java.io.IOException;
+import java.io.ObjectInputStream;
+import java.net.URL;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.Set;
@@ -9,7 +11,6 @@ import java.util.Set;
 import com.aliasi.chunk.Chunk;
 import com.aliasi.chunk.Chunker;
 import com.aliasi.chunk.Chunking;
-import com.aliasi.util.AbstractExternalizable;
 
 import edu.cmu.lti.oaqa.cse.basephase.keyterm.AbstractKeytermExtractor;
 import edu.cmu.lti.oaqa.framework.data.Keyterm;
@@ -20,16 +21,21 @@ import edu.stanford.nlp.trees.Tree;
 
 public class zhiqilKeytermExtractor extends AbstractKeytermExtractor {
   //set lingpipe bio gene tag chunker
-  File geneTag = new File("src/main/resources/genetag/ne-en-bio-genetag.HmmChunker");
+  //java.net.URL url = getClass().getResource("/genetag/ne-en-bio-genetag.HmmChunker");
 
+  
   @Override
   protected List<Keyterm> getKeyterms(String question) {
 
     ArrayList<Keyterm> keyTermList = new ArrayList<Keyterm>();   
 
     try {
-      Chunker chunker = (Chunker) AbstractExternalizable.readObject(geneTag); 
-          
+      // get gene term 
+      URL url = getClass().getResource("/genetag/ne-en-bio-genetag.HmmChunker"); 
+      ObjectInputStream in = new ObjectInputStream(url.openStream());
+      Chunker chunker = (Chunker) in.readObject();
+      in.close();
+      
       Chunking chunking = chunker.chunk(question);
       Set<Chunk> chunkSet = chunking.chunkSet();
       for(Chunk chunk : chunkSet) {  
@@ -37,6 +43,7 @@ public class zhiqilKeytermExtractor extends AbstractKeytermExtractor {
         keyTermList.add(k);          
       }
       
+      // get noun and verb
       LexicalizedParser lp = LexicalizedParser.loadModel("edu/stanford/nlp/models/lexparser/englishPCFG.ser.gz"); 
      
       Tree tree = lp.apply(question);
