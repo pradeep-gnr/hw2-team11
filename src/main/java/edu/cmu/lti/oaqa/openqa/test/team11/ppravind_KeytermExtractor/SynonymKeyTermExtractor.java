@@ -7,6 +7,7 @@ package edu.cmu.lti.oaqa.openqa.test.team11.ppravind_KeytermExtractor;
  */
 
 import java.io.File;
+import java.net.URISyntaxException;
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
@@ -16,6 +17,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Set;
 import java.util.HashSet;
+import java.net.URL;
 
 import com.aliasi.chunk.Chunk;
 import com.aliasi.chunk.Chunker;
@@ -36,7 +38,7 @@ import edu.smu.tspell.wordnet.*;
 
 public class SynonymKeyTermExtractor extends AbstractKeytermExtractor {
   //set lingpipe bio gene tag chunker
-  File geneTag = new File("src/main/resources/genetag/ne-en-bio-genetag.HmmChunker");
+  File geneTag;
   public HashMap stopWords = new HashMap();
   
   /*
@@ -50,13 +52,36 @@ public class SynonymKeyTermExtractor extends AbstractKeytermExtractor {
 	  /*
 	   * Initialize the WordNet dictionary Files for Synonym Extraction
 	   */
-	  System.setProperty("wordnet.database.dir", "src/main/java/edu/cmu/lti/oaqa/openqa/test/team11/ppravind_KeytermExtractor/wordnet/dict");
+	  URL word_path = this.getClass().getClassLoader().getResource("wordnet_dict");
+	  System.setProperty("wordnet.database.dir", word_path.getPath());
 	  /*
 	   * Initialize Stop Words Dictionary !
 	   */
 	  System.out.println("Initializing Stop Words");
-	  File file = new File("src/main/java/edu/cmu/lti/oaqa/openqa/test/team11/ppravind_KeytermExtractor/stopwords/stopwords.txt");
+	  File file;
+	  URL url = this.getClass().getClassLoader().getResource("stopwords.txt");
+	  
+	  try {
+		  file = new File(url.toURI());
+		} catch(URISyntaxException e) {
+		  file = new File(url.getPath());
+		}
+	  //File file = new File("/stopwords.txt");
 	  BufferedReader br=null;
+	  
+	/*
+	 * Initialize the Model File
+	 */
+	  
+	 URL url2 = this.getClass().getResource("/genetag/ne-en-bio-genetag.HmmChunker");
+	 File file1;	  
+	  
+	  try {
+		  file1 = new File(url2.toURI());
+		} catch(URISyntaxException e) {
+		  file1 = new File(url2.getPath());
+		}
+	  this.geneTag = file1;
 	try {
 		br = new BufferedReader(new FileReader(file));
 		String line;
