@@ -15,8 +15,7 @@ pipeline:
     name: keyterm-extractor
     options: |
       - inherit: helloqa.keyterm.simple
-      - inherit: hellobioqa.team11.keyterm.ppravindKeyterm	
-      - inherit: hellobioqa.team11.keyterm.ppravindNounPhraseExtractor      
+      - inherit: hellobioqa.team11.keyterm.synonymNounPhraseExtractor	
       - inherit: hellobioqa.team11.keyterm.zhiqilKeytermExtractor
       - inherit: hellobioqa.team11.keyterm.zhiqilKeytermExtractor2
   
