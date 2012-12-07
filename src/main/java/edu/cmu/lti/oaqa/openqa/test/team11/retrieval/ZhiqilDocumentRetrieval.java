@@ -107,7 +107,7 @@ public class ZhiqilDocumentRetrieval extends AbstractRetrievalStrategist {
       // first run the whole query string
       // Needs to be tuned
       
-      SolrDocumentList docs = wrapper.runQuery(query, 500);
+      SolrDocumentList docs = wrapper.runQuery(query, 300);
     
       for (SolrDocument doc : docs) {
         RetrievalResult r = new RetrievalResult((String) doc.getFieldValue("id"),

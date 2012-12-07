@@ -14,25 +14,19 @@ pipeline:
   - inherit: jdbc.sqlite.cse.phase  
     name: keyterm-extractor
     options: |
-      - inherit: helloqa.keyterm.simple
-      - inherit: hellobioqa.team11.keyterm.synonymNounPhraseExtractor	
       - inherit: hellobioqa.team11.keyterm.zhiqilKeytermExtractor
-      - inherit: hellobioqa.team11.keyterm.zhiqilKeytermExtractor2
   
 
   - inherit: jdbc.sqlite.cse.phase 
     name: retrieval-strategist
     options: |
-      - inherit: hellobioqa.retrieval.simple-solr-strategist
       - inherit: hellobioqa.team11.retrieval.simple-solr-strategist
-      - inherit: hellobioqa.team11.retrieval.zhiqil-retrieval
-      - inherit: hellobioqa.team11.retrieval.zhiqil-retrieval2   
+ 
           
   - inherit: jdbc.sqlite.cse.phase  
     name: passage-extractor
     options: |
       - inherit: hellobioqa.passage.simple
-      - inherit: hellobioqa.team11.passage.lucene-passage-extractor
       
   - inherit: helloqa.eval.keyterm-aggregator-consumer
 

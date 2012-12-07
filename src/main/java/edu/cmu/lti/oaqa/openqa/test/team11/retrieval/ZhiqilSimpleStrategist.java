@@ -59,9 +59,11 @@ public class ZhiqilSimpleStrategist extends AbstractRetrievalStrategist {
   }
   
   protected List<RetrievalResult> retrieveDocuments(String query) {
+    
     ArrayList<Keyterm> keyTermList = new ArrayList<Keyterm>();
     List<RetrievalResult> result = new ArrayList<RetrievalResult>();
     try {
+      
       String[] keytermlist = query.split(" ");
       int flag = 0;
       for (String k : keytermlist) {
