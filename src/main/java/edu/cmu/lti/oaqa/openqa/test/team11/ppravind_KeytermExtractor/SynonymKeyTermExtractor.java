@@ -262,13 +262,5 @@ public class SynonymKeyTermExtractor extends AbstractKeytermExtractor {
     return keytermWithSynonyms;
   }
   
-  public static void main(String args[])
-  {
-	  SynonymKeyTermExtractor key = new SynonymKeyTermExtractor();
-	  System.out.println(key.getKeyterms("What is the role of APC (adenomatous polyposis coli) in colon cancer?"));
-	  
-	  
-  }
-  
    
 }
