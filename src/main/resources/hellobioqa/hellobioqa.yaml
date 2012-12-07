@@ -13,7 +13,7 @@ collection-reader:
 pipeline:
   - inherit: jdbc.sqlite.cse.phase  
     name: keyterm-extractor
-    options: |
+    options: |	
       - inherit: hellobioqa.team11.keyterm.zhiqilKeytermExtractor
   
 
